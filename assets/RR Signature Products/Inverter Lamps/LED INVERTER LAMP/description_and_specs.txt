@@ -1,0 +1,64 @@
+
+SOURCE: catalogue-2.pdf page 105
+MODEL: LED INVERTER LAMP
+
+LED
+INVERTER
+LAMP
+9W I 12W I 15W | 30W
+106
+
+FOLLOWING SPECIFICATION PAGE 106
+ 
+ 
+Input 
+Color 
+Size 
+PF 
+CRI 
+Lumen@ 
+Power 
+ 
+(mm) 
+ 
+ 
+6500K 
+9W 
+CDL 
+70 x 138 
+>0.9 
+80 
+900lm 
+12W 
+CDL 
+70 x 138 
+>0.9 
+80 
+1200lm 
+15W 
+CDL 
+77 x 160 
+>0.9 
+80 
+1500lm 
+30W 
+CDL 
+120 x 185 
+>0.9 
+80 
+3000lm 
+Upto 4 hours
+Backup time
+Overcharging &
+deep discharge
+protection
+Institutions
+Common Areas
+Shops
+Homes
+High Colour 
+Rendering
+Index (CRI>80) 
+for true colours
+107
+

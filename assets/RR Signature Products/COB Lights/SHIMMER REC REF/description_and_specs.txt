@@ -1,0 +1,71 @@
+
+SOURCE: catalogue-2.pdf page 11
+MODEL: SHIMMER REC REF
+
+COB LIGHT
+SHIMMER
+REC REF
+8W I 12W I 20W
+12
+
+FOLLOWING SPECIFICATION PAGE 12
+ 
+ 
+Homes
+Showrooms
+Restaurants
+Galleries
+Hotel
+Intense
+Focused 
+Light
+High Colour 
+Rendering
+index (CRI>80) 
+for true colours
+Lifelong
+Brightness
+* Lumens @ 6500K, may vary as  per colour
+Wattage 
+Housing 
+Reflector 
+Cut-out 
+Dimension 
+Color 
+CRI 
+*Lumen  
+Variants 
+ 
+ 
+(Dia) mm 
+( Dia xH)mm  
+ 
+Efficacy
+8W 
+Black/White 
+NB / RG 
+65 
+70 x 50 
+CW/WW/NW 
+>80 
+80 Im/W
+12W 
+Black/White 
+NB / RG 
+80 
+85 x 65 
+CW/WW/NW 
+>80 
+80 Im/W
+20W 
+Black/White 
+NB / RG 
+88 
+95 x 75 
+CW/WW/NW 
+>80 
+80 Im/W
+* CCT-6500K (CW), 4000K (NW), 3000K (WW)
+Reflector: Nickel Black (NB),  Rose Gold (RG)
+13
+

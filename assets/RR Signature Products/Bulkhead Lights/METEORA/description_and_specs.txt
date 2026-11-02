@@ -1,0 +1,50 @@
+
+SOURCE: catalogue-2.pdf page 83
+MODEL: METEORA
+
+METEORA
+LED BULKHEAD
+10W I 20W
+84
+
+FOLLOWING SPECIFICATION PAGE 84
+ 
+ 
+Wattage 
+CCT 
+Dimension 
+CRI 
+*Lumen  
+Variants 
+ 
+ 
+ 
+Efficacy
+10W 
+CW/WW/NW 
+170 x 67 x 46 
+>80 
+80 Im/W
+20W 
+CW/WW/NW 
+210 x 97 x 55 
+>80 
+80 Im/W
+* Lumens @ 6500K, may vary as  per colour
+Semi
+Outdoor
+Lighting
+High Colour 
+Rendering
+index (CRI>80) 
+for true colours
+Lifelong
+Brightness
+* CCT-6500K (CW), 4000K (NW), 3000K (WW)
+IP54
+85
+Homes
+Gardens
+Garage
+Shops
+

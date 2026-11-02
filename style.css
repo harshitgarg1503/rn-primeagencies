@@ -1,0 +1,134 @@
+/* RN Prime Agencies — corporate RR-style theme.
+   All brand tokens live here as CSS variables. */
+
+:root {
+  --rr: #1A1A1A;               /* primary charcoal, sampled from logo ink */
+  --rr-dark: #000000;          /* primary hover */
+  --accent: #8A714A;           /* bronze-gold cluster mean, transparent logo */
+  --navy: #1A1A1A;             /* corporate headings, hero base */
+  --navy-deep: #000000;        /* hero gradient end */
+  --gold: #8A714A;
+  --ink: #1A1A1A;
+  --paper: #F8F9FA;
+  --line: #E5E7EB;
+  --nav-h: 68px;
+}
+
+html { scroll-behavior: smooth; }
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
+section { scroll-margin-top: calc(var(--nav-h) + 52px); }
+
+/* ---------- download hub pills ---------- */
+.hub-pill {
+  display: inline-flex; align-items: center; gap: .6rem;
+  background: #fff; border: 1px solid var(--line); border-radius: 999px;
+  padding: .6rem 1.1rem; font-size: 13px; font-weight: 800; color: var(--navy);
+  transition: border-color .15s ease, box-shadow .15s ease, transform .15s ease;
+}
+.hub-pill svg { width: 16px; height: 16px; color: var(--rr); }
+.hub-pill span { font-weight: 600; color: #64748B; font-size: 12px; }
+.hub-pill:hover { border-color: var(--rr); box-shadow: 0 6px 18px rgba(26,26,26,.14); transform: translateY(-1px); }
+
+/* ---------- category cards (screenshot-style) ---------- */
+.cat-card {
+  display: flex; flex-direction: column; align-items: stretch;
+  background: var(--paper); border: 1px solid var(--line); border-radius: 12px;
+  overflow: hidden; cursor: pointer; padding: 0;
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+.cat-card:hover { transform: translateY(-4px); box-shadow: 0 14px 30px rgba(26,26,26,.16); border-color: rgba(209,164,89,.65); }
+.cat-img { display: block; aspect-ratio: 4 / 3; overflow: hidden; background: #E9ECEF; }
+.cat-img img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .25s ease; }
+.cat-card:hover .cat-img img { transform: scale(1.04); }
+.cat-tile {
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .4rem;
+  aspect-ratio: 4 / 3; background: linear-gradient(150deg, #EFF3F8, #E2E8F0); color: var(--navy);
+}
+.cat-tile svg { width: 44px; height: 44px; stroke-width: 1.5; }
+.cat-tile em { font-style: normal; font-size: 10px; font-weight: 800; letter-spacing: .14em; color: var(--rr); }
+.cat-title {
+  display: block; text-align: center; font-weight: 800; font-size: 14px;
+  letter-spacing: .04em; text-transform: uppercase; color: var(--navy);
+  padding: .9rem .75rem 0;
+}
+.cat-count { display: block; text-align: center; font-size: 11px; font-weight: 700; color: #94A3B8; padding: 0 .75rem .95rem; letter-spacing: .06em; }
+
+/* ---------- modal model galleries ---------- */
+.model-block { border: 1px solid var(--line); border-radius: 10px; padding: 1rem; background: #fff; }
+.gal-main { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 8px; border: 1px solid var(--line); background: #EDEFF2; }
+.gal-thumbs { display: flex; gap: .45rem; margin-top: .5rem; flex-wrap: wrap; }
+.gal-thumb { width: 58px; height: 44px; border-radius: 6px; overflow: hidden; border: 2px solid transparent; padding: 0; cursor: pointer; background: #EDEFF2; }
+.gal-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.gal-thumb.on { border-color: var(--rr); }
+
+/* ---------- hero ---------- */
+.hero-navy {
+  background:
+    radial-gradient(1100px 420px at 50% -10%, rgba(209,164,89,.20), transparent 60%),
+    radial-gradient(800px 380px at 85% 110%, rgba(209,164,89,.12), transparent 60%),
+    linear-gradient(160deg, var(--navy) 0%, var(--navy-deep) 100%);
+}
+.hero-grid {
+  background-image:
+    linear-gradient(rgba(255,255,255,.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.045) 1px, transparent 1px);
+  background-size: 44px 44px;
+  mask-image: radial-gradient(ellipse 90% 90% at 50% 40%, black 30%, transparent 75%);
+}
+
+/* ---------- cards / misc ---------- */
+.card-img { aspect-ratio: 4 / 3; object-fit: cover; background: #EDEFF2; }
+.clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+@keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+.fade-up { animation: fadeUp .3s ease both; }
+@keyframes popIn { from { opacity: 0; transform: scale(.97) translateY(8px); } to { opacity: 1; transform: scale(1) translateY(0); } }
+.pop-in { animation: popIn .2s ease both; }
+
+/* ---------- footer logo: dark mark -> crisp white silhouette on dark bg ---------- */
+.footer-logo { filter: brightness(0) invert(1); }
+
+/* ---------- right-edge quick inquiry tab + drawer ---------- */
+#edgeTab {
+  position: fixed; right: 0; top: 42%; z-index: 45;
+  writing-mode: vertical-rl; text-orientation: mixed;
+  background: var(--accent); color: #1A1A1A;
+  font-size: 12px; font-weight: 800; letter-spacing: .14em;
+  padding: 1rem .6rem; border-radius: 8px 0 0 8px;
+  box-shadow: -2px 2px 12px rgba(0,0,0,.25);
+  cursor: pointer; border: none;
+  display: flex; align-items: center; gap: .5rem;
+}
+#edgeTab:hover { background: var(--rr); color: #fff; }
+#edgeTab svg { width: 16px; height: 16px; }
+
+#drawer {
+  position: fixed; top: 0; right: 0; z-index: 60;
+  width: min(360px, 92vw); height: 100dvh;
+  background: #fff; box-shadow: -8px 0 30px rgba(0,0,0,.25);
+  transform: translateX(105%); transition: transform .28s ease;
+  display: flex; flex-direction: column;
+}
+#drawer.open { transform: translateX(0); }
+#drawerOverlay {
+  position: fixed; inset: 0; z-index: 55; background: rgba(15,23,42,.55);
+  opacity: 0; pointer-events: none; transition: opacity .25s ease;
+}
+#drawerOverlay.open { opacity: 1; pointer-events: auto; }
+
+/* ---------- modal ---------- */
+.modal-wrap { position: fixed; inset: 0; z-index: 70; display: flex; align-items: center; justify-content: center; padding: 1rem; }
+.modal-backdrop { position: absolute; inset: 0; background: rgba(15,23,42,.7); }
+.modal-card { position: relative; }
+
+/* thin red rule under section titles */
+.rule-red { width: 72px; height: 4px; background: var(--rr); border-radius: 2px; margin: .75rem auto 0; }
+
+@media (max-width: 640px) {
+  #edgeTab { top: auto; bottom: 96px; }
+}

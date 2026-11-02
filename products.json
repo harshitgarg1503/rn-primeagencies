@@ -1,0 +1,2265 @@
+[
+  {
+    "id": "air-coolers-air-cooler",
+    "category": "Air Coolers",
+    "model": "Air Cooler",
+    "primaryImage": "./assets/RR Signature Products/Air Coolers/Air Cooler/catalogue-3_page_043.jpg",
+    "images": [
+      "./assets/RR Signature Products/Air Coolers/Air Cooler/catalogue-3_page_043.jpg"
+    ],
+    "description": "Air Cooler – All Season Cover Free",
+    "specs": [
+      "Anti Bacterial Honeycomb",
+      "Pad",
+      "14 Feet",
+      "Air Throw",
+      "14ft",
+      "Virgin PP Body",
+      "100%",
+      "Inverter Compatible",
+      "Completely Collapsible",
+      "Louvers Thermal",
+      "Overload Protection",
+      "Capacity"
+    ]
+  },
+  {
+    "id": "air-coolers-siberian-breeze",
+    "category": "Air Coolers",
+    "model": "SIBERIAN BREEZE",
+    "primaryImage": "./assets/RR Signature Products/Air Coolers/SIBERIAN BREEZE/catalogue-3_page_039.jpg",
+    "images": [
+      "./assets/RR Signature Products/Air Coolers/SIBERIAN BREEZE/catalogue-3_page_039.jpg"
+    ],
+    "description": "SIBERIAN BREEZE – Desert Air Cooler All Season Cover",
+    "specs": [
+      "Free Anti Bacterial",
+      "Honeycomb Pad",
+      "50 Feet",
+      "Air Throw",
+      "50ft",
+      "Virgin PP Body",
+      "ABS Fan Blade",
+      "SIZES AVAILABLE",
+      "55 75",
+      "Inverter Compatible",
+      "Ice Chamber",
+      "Capacity"
+    ]
+  },
+  {
+    "id": "air-coolers-siberian-hill",
+    "category": "Air Coolers",
+    "model": "SIBERIAN HILL",
+    "primaryImage": "./assets/RR Signature Products/Air Coolers/SIBERIAN HILL/catalogue-3_page_041.jpg",
+    "images": [
+      "./assets/RR Signature Products/Air Coolers/SIBERIAN HILL/catalogue-3_page_041.jpg"
+    ],
+    "description": "SIBERIAN HILL – Tower Air Cooler All Season Cover",
+    "specs": [
+      "Free",
+      "SIZES AVAILABLE",
+      "Anti Bacterial Honeycomb",
+      "Pad",
+      "35 Feet",
+      "Air Throw",
+      "35ft",
+      "Virgin PP Body",
+      "100%",
+      "Inverter Compatible",
+      "Completely Collapsible",
+      "Louvers Thermal"
+    ]
+  },
+  {
+    "id": "air-coolers-siberian-mammoth",
+    "category": "Air Coolers",
+    "model": "SIBERIAN MAMMOTH",
+    "primaryImage": "./assets/RR Signature Products/Air Coolers/SIBERIAN MAMMOTH/catalogue-3_page_033.jpg",
+    "images": [
+      "./assets/RR Signature Products/Air Coolers/SIBERIAN MAMMOTH/catalogue-3_page_033.jpg",
+      "./assets/RR Signature Products/Air Coolers/SIBERIAN MAMMOTH/catalogue-3_page_035.jpg"
+    ],
+    "description": "SIBERIAN MAMMOTH – SIZES AVAILABLE",
+    "specs": [
+      "All Season Cover Free",
+      "Capacity",
+      "110 Ltrs",
+      "Wattage",
+      "350 W",
+      "Air Throw",
+      "75 ft",
+      "Air Delivery (M3H)",
+      "8000 m /hr",
+      "Inverter Compatibility Yes",
+      "Speed",
+      "1350 RPM"
+    ]
+  },
+  {
+    "id": "air-coolers-siberian-max",
+    "category": "Air Coolers",
+    "model": "SIBERIAN MAX",
+    "primaryImage": "./assets/RR Signature Products/Air Coolers/SIBERIAN MAX/catalogue-3_page_037.jpg",
+    "images": [
+      "./assets/RR Signature Products/Air Coolers/SIBERIAN MAX/catalogue-3_page_037.jpg"
+    ],
+    "description": "SIBERIAN MAX – Desert Air Cooler",
+    "specs": [
+      "SIZES AVAILABLE",
+      "All Season Cover Free",
+      "Anti Bacterial Honeycomb",
+      "Pad",
+      "60 Feet",
+      "Air Throw",
+      "60ft",
+      "Multi Directional",
+      "Caster Wheels Virgin",
+      "PP Body",
+      "16 Inch ABS",
+      "Fan Blade"
+    ]
+  },
+  {
+    "id": "air-fryers-nutracrisp",
+    "category": "Air Fryers",
+    "model": "NUTRACRISP",
+    "primaryImage": "./assets/RR Signature Products/Air Fryers/NUTRACRISP/catalogue-1_page_021_1.png",
+    "images": [
+      "./assets/RR Signature Products/Air Fryers/NUTRACRISP/catalogue-1_page_021_1.png",
+      "./assets/RR Signature Products/Air Fryers/NUTRACRISP/catalogue-3_page_081.jpg"
+    ],
+    "description": "NUTRACRISP – Air Fryer Less Oil",
+    "specs": [
+      "Turbo Air Circulation",
+      "1400W",
+      "Adjustable Time Control",
+      "1 to 60 min Digital",
+      "Touch Panel Preset Menus",
+      "PRODUCT",
+      "Upto",
+      "4.2 L",
+      "Capacity Air Fryer",
+      "Less Oil Turbo Air",
+      "Circulation",
+      "Capacity"
+    ]
+  },
+  {
+    "id": "air-fryers-nutracrisp-pro",
+    "category": "Air Fryers",
+    "model": "NUTRACRISP PRO",
+    "primaryImage": "./assets/RR Signature Products/Air Fryers/NUTRACRISP PRO/catalogue-1_page_020_1.png",
+    "images": [
+      "./assets/RR Signature Products/Air Fryers/NUTRACRISP PRO/catalogue-1_page_020_1.png"
+    ],
+    "description": "NUTRACRISP PRO – AIR FRYERS",
+    "specs": [
+      "Great taste. Less oil. More possibilities.",
+      "Introducing RR Signature Air Fryers, designed to help you enjoy your favourite",
+      "recipes with little to no oil. Combining rapid hot air circulation with thoughtful",
+      "features, they deliver crispy, delicious results while supporting a healthier",
+      "lifestyle.",
+      "Whether it's snacks for the family, everyday meals or weekend treats, our air",
+      "fryers offer generous capacity, easy controls and hassle-free cleaning. With",
+      "the 6L model featuring an illuminated cooking chamber, monitoring your food",
+      "has never been easier.",
+      "Rediscover your favourite dishes with healthier cooking made effortless."
+    ]
+  },
+  {
+    "id": "air-fryers-nutracrisp-pro-variant",
+    "category": "Air Fryers",
+    "model": "NUTRACRISP PRO variant",
+    "primaryImage": "./assets/RR Signature Products/Air Fryers/NUTRACRISP PRO variant/catalogue-1_page_020_2.png",
+    "images": [
+      "./assets/RR Signature Products/Air Fryers/NUTRACRISP PRO variant/catalogue-1_page_020_2.png"
+    ],
+    "description": "NUTRACRISP PRO variant – Air Fryer Less Oil",
+    "specs": [
+      "Turbo Air Circulation",
+      "1500W",
+      "Adjustable Temperature",
+      "& Time Control Digital",
+      "Touch Panel Preset Menus",
+      "PRODUCT",
+      "Upto",
+      "6 L",
+      "Capacity"
+    ]
+  },
+  {
+    "id": "air-fryers-nutracrisp-variant",
+    "category": "Air Fryers",
+    "model": "NUTRACRISP variant",
+    "primaryImage": "./assets/RR Signature Products/Air Fryers/NUTRACRISP variant/catalogue-1_page_021_2.png",
+    "images": [
+      "./assets/RR Signature Products/Air Fryers/NUTRACRISP variant/catalogue-1_page_021_2.png"
+    ],
+    "description": "NUTRACRISP variant – AIR FRYING VS DEEP FRYING",
+    "specs": [
+      "FEATURE",
+      "AIR FRYING",
+      "DEEP FRYING",
+      "Oil Usage Little to No Oil",
+      "High Oil Usage Health",
+      "Healthier Cooking Higher Fat Content",
+      "Cooking Air Circulation",
+      "Hot Oil Versatility",
+      "Fry/Bake/Roast/Grill/Reheat Fry Only",
+      "Cleaning Easy",
+      "Oily & Messy Smoke & Odour",
+      "Minimal High"
+    ]
+  },
+  {
+    "id": "blenders-slimchef-402",
+    "category": "Blenders",
+    "model": "SLIMCHEF 402",
+    "primaryImage": "./assets/RR Signature Products/Blenders/SLIMCHEF 402/catalogue-1_page_019_1.png",
+    "images": [
+      "./assets/RR Signature Products/Blenders/SLIMCHEF 402/catalogue-1_page_019_1.png",
+      "./assets/RR Signature Products/Blenders/SLIMCHEF 402/catalogue-3_page_077.jpg"
+    ],
+    "description": "SLIMCHEF 402 – Personal Blender",
+    "specs": [
+      "2 Nos PC Jars Unbreakable",
+      "Blending /",
+      "Whisking SS Blade",
+      "400W",
+      "Advanced Air Ventilation",
+      "System",
+      "22,000 RPM",
+      "Motor Speed Ergonomic",
+      "Grip",
+      "PRODUCT",
+      "100%",
+      "Copper Motor Personal Blender"
+    ]
+  },
+  {
+    "id": "blenders-slimchef-602",
+    "category": "Blenders",
+    "model": "SLIMCHEF 602",
+    "primaryImage": "./assets/RR Signature Products/Blenders/SLIMCHEF 602/catalogue-1_page_019_2.png",
+    "images": [
+      "./assets/RR Signature Products/Blenders/SLIMCHEF 602/catalogue-1_page_019_2.png"
+    ],
+    "description": "SLIMCHEF 602 – Hand Blender",
+    "specs": [
+      "VELORA 253",
+      "Rust free Metal",
+      "shaft for durability",
+      "and longer life Rust free Metal",
+      "shaft for",
+      "durability &",
+      "longer life",
+      "250W",
+      "Durable build",
+      "with 304 SS blades Easy controls &",
+      "pusher for",
+      "effortless use."
+    ]
+  },
+  {
+    "id": "blenders-slimchef-pro-402",
+    "category": "Blenders",
+    "model": "SLIMCHEF PRO 402",
+    "primaryImage": "./assets/RR Signature Products/Blenders/SLIMCHEF PRO 402/catalogue-1_page_018_2.png",
+    "images": [
+      "./assets/RR Signature Products/Blenders/SLIMCHEF PRO 402/catalogue-1_page_018_2.png"
+    ],
+    "description": "SLIMCHEF PRO 402 – Personal Blender",
+    "specs": [
+      "SLIMCHEF PRO 602",
+      "2 Nos PC Jars Unbreakable",
+      "600W",
+      "Advanced Air Ventilation",
+      "System",
+      "20,000 RPM",
+      "Motor Speed",
+      "PRODUCT",
+      "100%",
+      "Copper Motor Designer Sipper",
+      "Lid with Easy Cary handle",
+      "SS 2 Blade Attachment"
+    ]
+  },
+  {
+    "id": "blenders-slimchef-pro-602",
+    "category": "Blenders",
+    "model": "SLIMCHEF PRO 602",
+    "primaryImage": "./assets/RR Signature Products/Blenders/SLIMCHEF PRO 602/catalogue-1_page_018_1.png",
+    "images": [
+      "./assets/RR Signature Products/Blenders/SLIMCHEF PRO 602/catalogue-1_page_018_1.png"
+    ],
+    "description": "SLIMCHEF PRO 602 – BLENDERS",
+    "specs": [
+      "Healthy living, one blend at a time.",
+      "Introducing RR Signature Blenders, a thoughtfully crafted range designed to",
+      "simplify everyday food preparation while complementing today's active",
+      "lifestyles. Whether you're blending fresh smoothies, preparing protein shakes,",
+      "pureeing soups or creating delicious sauces, our blenders deliver reliable",
+      "performance with speed, precision and convenience.",
+      "Backed by RR's legacy of engineering excellence, every blender is built with",
+      "powerful 100% copper motors, durable components and ergonomic designs",
+      "that make daily meal preparation effortless. Compact enough for modern",
+      "kitchens yet versatile enough for a variety of tasks, they are designed to keep",
+      "pace with your lifestyle.",
+      "Whether you're embracing healthier eating habits, preparing quick family"
+    ]
+  },
+  {
+    "id": "bulkhead-lights-meteora",
+    "category": "Bulkhead Lights",
+    "model": "METEORA",
+    "primaryImage": "./assets/RR Signature Products/Bulkhead Lights/METEORA/catalogue-2_page_083.jpg",
+    "images": [
+      "./assets/RR Signature Products/Bulkhead Lights/METEORA/catalogue-2_page_083.jpg"
+    ],
+    "description": "METEORA – LED BULKHEAD",
+    "specs": [
+      "10W I 20W",
+      "Wattage",
+      "CCT",
+      "Dimension",
+      "CRI",
+      "*Lumen Variants",
+      "Efficacy",
+      "10W",
+      "CW/WW/NW",
+      "170 x 67 x 46",
+      ">80",
+      "80 Im/W"
+    ]
+  },
+  {
+    "id": "cob-lights-shimmer-3w",
+    "category": "COB Lights",
+    "model": "SHIMMER 3W",
+    "primaryImage": "./assets/RR Signature Products/COB Lights/SHIMMER 3W/catalogue-2_page_017.jpg",
+    "images": [
+      "./assets/RR Signature Products/COB Lights/SHIMMER 3W/catalogue-2_page_017.jpg"
+    ],
+    "description": "SHIMMER 3W – COB LIGHT",
+    "specs": [
+      "3W",
+      "Homes Showrooms",
+      "Small offices Homes",
+      "Restaurants Galleries",
+      "Poles Lighting Contour",
+      "Lighting Rich colors",
+      "for decoration Intense",
+      "Focused Light",
+      "High Colour Rendering",
+      "index (CRI>80)",
+      "for true colours Wattage",
+      "CCT/Color Cut-out"
+    ]
+  },
+  {
+    "id": "cob-lights-shimmer-cylinder",
+    "category": "COB Lights",
+    "model": "SHIMMER CYLINDER",
+    "primaryImage": "./assets/RR Signature Products/COB Lights/SHIMMER CYLINDER/catalogue-2_page_009.jpg",
+    "images": [
+      "./assets/RR Signature Products/COB Lights/SHIMMER CYLINDER/catalogue-2_page_009.jpg"
+    ],
+    "description": "SHIMMER CYLINDER – COB LIGHT",
+    "specs": [
+      "CYLINDER",
+      "8W I 12W I 20W",
+      "Wattage Housing",
+      "Reflector Dimension",
+      "CCT",
+      "CRI",
+      "*Lumen Variants",
+      "( Dia xH)mm Efficacy",
+      "8W",
+      "Black/White",
+      "NB / RG",
+      "55 x 65"
+    ]
+  },
+  {
+    "id": "cob-lights-shimmer-deep-recessed",
+    "category": "COB Lights",
+    "model": "SHIMMER DEEP RECESSED",
+    "primaryImage": "./assets/RR Signature Products/COB Lights/SHIMMER DEEP RECESSED/catalogue-2_page_015.jpg",
+    "images": [
+      "./assets/RR Signature Products/COB Lights/SHIMMER DEEP RECESSED/catalogue-2_page_015.jpg"
+    ],
+    "description": "SHIMMER DEEP RECESSED – COB LIGHT",
+    "specs": [
+      "DEEP RECESSED",
+      "8W I 12W I 20W",
+      "* Lumens @ 6500K, may vary as per colour",
+      "Homes Showrooms",
+      "Restaurants Galleries",
+      "Hotel Intense",
+      "Focused Light",
+      "High Colour Rendering",
+      "index (CRI>80)",
+      "for true colours Lifelong",
+      "Brightness",
+      "* CCT-6500K (CW), 4000K (NW), 3000K (WW)"
+    ]
+  },
+  {
+    "id": "cob-lights-shimmer-pro-surface-tilt",
+    "category": "COB Lights",
+    "model": "SHIMMER PRO SURFACE TILT",
+    "primaryImage": "./assets/RR Signature Products/COB Lights/SHIMMER PRO SURFACE TILT/catalogue-2_page_013.jpg",
+    "images": [
+      "./assets/RR Signature Products/COB Lights/SHIMMER PRO SURFACE TILT/catalogue-2_page_013.jpg"
+    ],
+    "description": "SHIMMER PRO SURFACE TILT – COB SHIMMER",
+    "specs": [
+      "PRO SURFACE",
+      "TILT",
+      "8W I 12W",
+      "* Lumens @ 6500K, may vary as per colour",
+      "Homes Showrooms",
+      "Restaurants Galleries",
+      "Hotel Intense Focused",
+      "Light, Tiltable Design",
+      "High Colour Rendering",
+      "index (CRI>80)",
+      "for true colours Lifelong",
+      "Brightness Wattage"
+    ]
+  },
+  {
+    "id": "cob-lights-shimmer-rec-ref",
+    "category": "COB Lights",
+    "model": "SHIMMER REC REF",
+    "primaryImage": "./assets/RR Signature Products/COB Lights/SHIMMER REC REF/catalogue-2_page_011.jpg",
+    "images": [
+      "./assets/RR Signature Products/COB Lights/SHIMMER REC REF/catalogue-2_page_011.jpg"
+    ],
+    "description": "SHIMMER REC REF – COB LIGHT",
+    "specs": [
+      "REC REF",
+      "8W I 12W I 20W",
+      "Homes Showrooms",
+      "Restaurants Galleries",
+      "Hotel Intense",
+      "Focused Light",
+      "High Colour Rendering",
+      "index (CRI>80)",
+      "for true colours Lifelong",
+      "Brightness",
+      "* Lumens @ 6500K, may vary as per colour",
+      "Wattage Housing"
+    ]
+  },
+  {
+    "id": "cob-lights-shimmer-up-down",
+    "category": "COB Lights",
+    "model": "SHIMMER UP  DOWN",
+    "primaryImage": "./assets/RR Signature Products/COB Lights/SHIMMER UP  DOWN/catalogue-2_page_019.jpg",
+    "images": [
+      "./assets/RR Signature Products/COB Lights/SHIMMER UP  DOWN/catalogue-2_page_019.jpg"
+    ],
+    "description": "SHIMMER UP  DOWN – COB LIGHT",
+    "specs": [
+      "UP & DOWN",
+      "Spherical Telescope",
+      "Wattage Variants",
+      "Design COB/Side",
+      "No. of Sides Dimension(mm)",
+      "Colour",
+      "2W Updown 1x2",
+      "Telescope",
+      "86x80x37",
+      "WW",
+      "4W Updown 2x2",
+      "120x80x42"
+    ]
+  },
+  {
+    "id": "ceiling-lights-comet",
+    "category": "Ceiling Lights",
+    "model": "COMET",
+    "primaryImage": "./assets/RR Signature Products/Ceiling Lights/COMET/catalogue-2_page_053.jpg",
+    "images": [
+      "./assets/RR Signature Products/Ceiling Lights/COMET/catalogue-2_page_053.jpg"
+    ],
+    "description": "COMET – 5W I 7W I 9W | 12W",
+    "specs": [
+      "CEILING LIGHTS",
+      "Wattage Color Cut-out",
+      "PF",
+      "CRI",
+      "*Lumen Variants",
+      "Dimension Efficacy",
+      "(mm)",
+      "5W",
+      "CW/NW/WW/Red/Green/Blue/Pink",
+      ">0.9",
+      ">80",
+      "80 Im/W"
+    ]
+  },
+  {
+    "id": "ceiling-lights-comet-moon-light",
+    "category": "Ceiling Lights",
+    "model": "COMET MOON LIGHT",
+    "primaryImage": "./assets/RR Signature Products/Ceiling Lights/COMET MOON LIGHT/catalogue-2_page_059.jpg",
+    "images": [
+      "./assets/RR Signature Products/Ceiling Lights/COMET MOON LIGHT/catalogue-2_page_059.jpg"
+    ],
+    "description": "COMET MOON LIGHT – 6W I 8W | 12W | 15W",
+    "specs": [
+      "MOON LIGHT",
+      "Wattage Color",
+      "Cut-out Dimension",
+      "PF",
+      "CRI",
+      "*Lumen Variants",
+      "Dia(mm)",
+      "(Dia xH)mm Efficacy",
+      "6W Round",
+      "CW/NW/WW",
+      "84x56",
+      ">0.9"
+    ]
+  },
+  {
+    "id": "ceiling-lights-comet-neo",
+    "category": "Ceiling Lights",
+    "model": "COMET NEO",
+    "primaryImage": "./assets/RR Signature Products/Ceiling Lights/COMET NEO/catalogue-2_page_055.jpg",
+    "images": [
+      "./assets/RR Signature Products/Ceiling Lights/COMET NEO/catalogue-2_page_055.jpg"
+    ],
+    "description": "COMET NEO – CEILING LIGHTS",
+    "specs": [
+      "6W",
+      "Sleek, Eﬃcient Lighting for Modern Spaces Our LED Downlighters and LED Panels oﬀer stylish, energy-eﬃcient",
+      "lighting solutions designed to enhance the aesthetics and functionality of residential, commercial, and oﬃce",
+      "spaces. Combining cutting-edge technology with sleek designs, these products provide uniform, glare-free",
+      "illumination.",
+      "Features Compact and Stylish",
+      "• Energy-Eﬃcient Wide Applicatio",
+      "• Long Lifespan Uniform Illumination",
+      "• Multiple Sizes and Color Temperatures",
+      "Upgrade your space with our LED Downlighters and LED Panels for a bright, energy-eﬃcient, and aesthetically",
+      "pleasing lighting experience!",
+      "LED DOWNLIGHTS &"
+    ]
+  },
+  {
+    "id": "ceiling-lights-comet-neo-2-in-1",
+    "category": "Ceiling Lights",
+    "model": "COMET NEO 2 IN 1",
+    "primaryImage": "./assets/RR Signature Products/Ceiling Lights/COMET NEO 2 IN 1/catalogue-2_page_057.jpg",
+    "images": [
+      "./assets/RR Signature Products/Ceiling Lights/COMET NEO 2 IN 1/catalogue-2_page_057.jpg"
+    ],
+    "description": "COMET NEO 2 IN 1 – NEO 2 IN 1",
+    "specs": [
+      "7W I 12W",
+      "INNER RING",
+      "GLOW",
+      "OUTER SING",
+      "BOTH RINGS",
+      "ON",
+      "X1",
+      "OFF",
+      "Homes Shops",
+      "Cafes Wattage",
+      "Inner Circle Outer Ring",
+      "Cut-out"
+    ]
+  },
+  {
+    "id": "ceiling-lights-comet-pro",
+    "category": "Ceiling Lights",
+    "model": "COMET PRO",
+    "primaryImage": "./assets/RR Signature Products/Ceiling Lights/COMET PRO/catalogue-2_page_061.jpg",
+    "images": [
+      "./assets/RR Signature Products/Ceiling Lights/COMET PRO/catalogue-2_page_061.jpg"
+    ],
+    "description": "COMET PRO – CEILING LIGHTS",
+    "specs": [
+      "3W",
+      "High Colour Rendering",
+      "Index (CRI>80)",
+      "for true colours Safe For",
+      "Eyes Wattage",
+      "Color Cut-out",
+      "PF",
+      "CRI",
+      "*Lumen Variants",
+      "Dimension Efficacy",
+      "(mm)",
+      "CW/WW"
+    ]
+  },
+  {
+    "id": "decorative-ceiling-lights-cometglo",
+    "category": "Decorative Ceiling Lights",
+    "model": "COMETGLO",
+    "primaryImage": "./assets/RR Signature Products/Decorative Ceiling Lights/COMETGLO/catalogue-2_page_051.jpg",
+    "images": [
+      "./assets/RR Signature Products/Decorative Ceiling Lights/COMETGLO/catalogue-2_page_051.jpg"
+    ],
+    "description": "COMETGLO – DECORATIVE",
+    "specs": [
+      "CEILING LIGHT",
+      "7W",
+      "* Lumens @ 6500K, may vary as per colour",
+      "Wattage Housing",
+      "Reflector Cut-out",
+      "Dimension Color",
+      "CRI",
+      "*Lumen Variants",
+      "(Dia) mm",
+      "( Dia xH)mm Efficacy",
+      "Black/White",
+      "NB / RG"
+    ]
+  },
+  {
+    "id": "decorative-ceiling-lights-decorative-ceiling-round",
+    "category": "Decorative Ceiling Lights",
+    "model": "DECORATIVE CEILING ROUND",
+    "primaryImage": "./assets/RR Signature Products/Decorative Ceiling Lights/DECORATIVE CEILING ROUND/catalogue-2_page_047.jpg",
+    "images": [
+      "./assets/RR Signature Products/Decorative Ceiling Lights/DECORATIVE CEILING ROUND/catalogue-2_page_047.jpg"
+    ],
+    "description": "DECORATIVE CEILING ROUND – CEILING LIGHT",
+    "specs": [
+      "ROUND",
+      "36W",
+      "6500K CW",
+      "3000K WW",
+      "4000K NW",
+      "OFF",
+      "ON",
+      "X1",
+      "Unique Architectural",
+      "Design Wattage",
+      "Color Dimension",
+      "PF"
+    ]
+  },
+  {
+    "id": "decorative-lamps-amber-eco",
+    "category": "Decorative Lamps",
+    "model": "AMBER ECO",
+    "primaryImage": "./assets/RR Signature Products/Decorative Lamps/AMBER ECO/catalogue-2_page_115.jpg",
+    "images": [
+      "./assets/RR Signature Products/Decorative Lamps/AMBER ECO/catalogue-2_page_115.jpg"
+    ],
+    "description": "AMBER ECO – LED DECO",
+    "specs": [
+      "LAMPS",
+      "0.5W",
+      "Input Color",
+      "Dimension Beam",
+      "Base Power",
+      "Dia x H (mm)",
+      "Angle",
+      "White, Warm White",
+      "45 x 70",
+      "200⁰",
+      "B22d Yellow, Red, Blue, Green",
+      "Multicolor Bedrooms"
+    ]
+  },
+  {
+    "id": "decorative-lamps-amber-pluggy",
+    "category": "Decorative Lamps",
+    "model": "AMBER PLUGGY",
+    "primaryImage": "./assets/RR Signature Products/Decorative Lamps/AMBER PLUGGY/catalogue-2_page_117.jpg",
+    "images": [
+      "./assets/RR Signature Products/Decorative Lamps/AMBER PLUGGY/catalogue-2_page_117.jpg"
+    ],
+    "description": "AMBER PLUGGY – LED DECO",
+    "specs": [
+      "PLUGGY LAMPS",
+      "0.5W",
+      "Input Color",
+      "Dimension Beam",
+      "Plug Power",
+      "Dia x H (mm)",
+      "Angle",
+      "White, Warm White",
+      "45 x 75",
+      "200⁰",
+      "2 Pin Plug",
+      "Yellow, Red, Blue, Green"
+    ]
+  },
+  {
+    "id": "designer-led-lamps-hazel-camellia",
+    "category": "Designer LED Lamps",
+    "model": "HAZEL CAMELLIA",
+    "primaryImage": "./assets/RR Signature Products/Designer LED Lamps/HAZEL CAMELLIA/catalogue-2_page_095.jpg",
+    "images": [
+      "./assets/RR Signature Products/Designer LED Lamps/HAZEL CAMELLIA/catalogue-2_page_095.jpg"
+    ],
+    "description": "HAZEL CAMELLIA – DESIGNER",
+    "specs": [
+      "LED LAMPS",
+      "HAZEL /",
+      "CAMELLIA",
+      "10W",
+      "Unique Architectural",
+      "Design Product",
+      "Rated",
+      "CCT",
+      "PF",
+      "CRI",
+      "Color Efficacy",
+      "(K)"
+    ]
+  },
+  {
+    "id": "electric-irons-atlas",
+    "category": "Electric Irons",
+    "model": "ATLAS",
+    "primaryImage": "./assets/RR Signature Products/Electric Irons/ATLAS/catalogue-1_page_004_2.png",
+    "images": [
+      "./assets/RR Signature Products/Electric Irons/ATLAS/catalogue-1_page_004_2.png"
+    ],
+    "description": "ATLAS – Heavy Weight Iron | Premium Plastic Skirting",
+    "specs": [
+      "Non Stick Teflon Coating",
+      "Easy Grip Knob for",
+      "Fabric Setting",
+      "6 Fabric Setting",
+      "Swivel Cord Thermal",
+      "Overload Protection",
+      "1100W",
+      "1.8 KG"
+    ]
+  },
+  {
+    "id": "electric-irons-casa-planca-neo",
+    "category": "Electric Irons",
+    "model": "CASA PLANCA NEO",
+    "primaryImage": "./assets/RR Signature Products/Electric Irons/CASA PLANCA NEO/catalogue-1_page_005_1.png",
+    "images": [
+      "./assets/RR Signature Products/Electric Irons/CASA PLANCA NEO/catalogue-1_page_005_1.png",
+      "./assets/RR Signature Products/Electric Irons/CASA PLANCA NEO/catalogue-3_page_049.jpg"
+    ],
+    "description": "CASA PLANCA NEO – 1.8 Kgs Heavy Weight Iron | Electroplated Metal Body",
+    "specs": [
+      "1100W",
+      "Non Stick Teflon Coating",
+      "6 Fabric Setting",
+      "Swivel Cord Thermal",
+      "Overload Protection",
+      "1.7 KG",
+      "Easy Grip Knob for",
+      "Fabric Setting",
+      "1.8 KG"
+    ]
+  },
+  {
+    "id": "electric-irons-creasefree-neo",
+    "category": "Electric Irons",
+    "model": "CREASEFREE NEO",
+    "primaryImage": "./assets/RR Signature Products/Electric Irons/CREASEFREE NEO/catalogue-1_page_007_2.png",
+    "images": [
+      "./assets/RR Signature Products/Electric Irons/CREASEFREE NEO/catalogue-1_page_007_2.png"
+    ],
+    "description": "CREASEFREE NEO – Dry Iron | Premium Plastic Skirting",
+    "specs": [
+      "800W",
+      "Non Stick Teflon Coating",
+      "Easy Grip Knob for",
+      "Fabric Setting",
+      "6 Fabric Setting",
+      "Swivel Cord Thermal",
+      "Overload Protection"
+    ]
+  },
+  {
+    "id": "electric-irons-electra",
+    "category": "Electric Irons",
+    "model": "ELECTRA",
+    "primaryImage": "./assets/RR Signature Products/Electric Irons/ELECTRA/catalogue-1_page_006_2.png",
+    "images": [
+      "./assets/RR Signature Products/Electric Irons/ELECTRA/catalogue-1_page_006_2.png"
+    ],
+    "description": "ELECTRA – Dry Iron | Premium Plastic Skirting",
+    "specs": [
+      "1000W",
+      "Non Stick Teflon Coating",
+      "Easy Grip Knob for",
+      "Fabric Setting",
+      "6 Fabric Setting",
+      "Swivel Cord Thermal",
+      "Overload Protection"
+    ]
+  },
+  {
+    "id": "electric-irons-glider",
+    "category": "Electric Irons",
+    "model": "GLIDER",
+    "primaryImage": "./assets/RR Signature Products/Electric Irons/GLIDER/catalogue-1_page_006_1.png",
+    "images": [
+      "./assets/RR Signature Products/Electric Irons/GLIDER/catalogue-1_page_006_1.png",
+      "./assets/RR Signature Products/Electric Irons/GLIDER/catalogue-3_page_051.jpg"
+    ],
+    "description": "GLIDER – Dry Iron | Premium Plastic Skirting",
+    "specs": [
+      "1000W",
+      "Non Stick Teflon Coating",
+      "Easy Grip Knob for",
+      "Fabric Setting",
+      "6 Fabric Setting",
+      "Swivel Cord Thermal",
+      "Overload Protection",
+      "1100W"
+    ]
+  },
+  {
+    "id": "electric-irons-matrix",
+    "category": "Electric Irons",
+    "model": "MATRIX",
+    "primaryImage": "./assets/RR Signature Products/Electric Irons/MATRIX/catalogue-1_page_007_1.png",
+    "images": [
+      "./assets/RR Signature Products/Electric Irons/MATRIX/catalogue-1_page_007_1.png",
+      "./assets/RR Signature Products/Electric Irons/MATRIX/catalogue-3_page_053.jpg"
+    ],
+    "description": "MATRIX – Dry Iron | Premium Plastic Skirting",
+    "specs": [
+      "1000W",
+      "Non Stick Teflon Coating",
+      "Easy Grip Knob for",
+      "Fabric Setting",
+      "6 Fabric Setting",
+      "Swivel Cord Thermal",
+      "Overload Protection"
+    ]
+  },
+  {
+    "id": "electric-irons-mirage",
+    "category": "Electric Irons",
+    "model": "MIRAGE",
+    "primaryImage": "./assets/RR Signature Products/Electric Irons/MIRAGE/catalogue-1_page_004_1.png",
+    "images": [
+      "./assets/RR Signature Products/Electric Irons/MIRAGE/catalogue-1_page_004_1.png",
+      "./assets/RR Signature Products/Electric Irons/MIRAGE/catalogue-3_page_047.jpg"
+    ],
+    "description": "MIRAGE – Steam Iron | Premium Plastic Skirting",
+    "specs": [
+      "1400W",
+      "Non Stick Teflon Coating",
+      "Easy Grip Knob for",
+      "Fabric Setting",
+      "6 Fabric Setting",
+      "Swivel Cord Powerful",
+      "Spray Water Capacity",
+      "240 ml",
+      "1250W",
+      "180 ml"
+    ]
+  },
+  {
+    "id": "electric-irons-ultron-neo",
+    "category": "Electric Irons",
+    "model": "ULTRON NEO",
+    "primaryImage": "./assets/RR Signature Products/Electric Irons/ULTRON NEO/catalogue-1_page_005_2.png",
+    "images": [
+      "./assets/RR Signature Products/Electric Irons/ULTRON NEO/catalogue-1_page_005_2.png"
+    ],
+    "description": "ULTRON NEO – Dry Iron | Premium Plastic Skirting",
+    "specs": [
+      "Non Stick Teflon Coating",
+      "Easy Grip Knob for",
+      "Fabric Setting",
+      "6 Fabric Setting",
+      "Swivel Cord",
+      "1000W",
+      "Thermal Overload",
+      "Protection"
+    ]
+  },
+  {
+    "id": "floodlights-quanto-floodlight",
+    "category": "Floodlights",
+    "model": "QUANTO FLOODLIGHT",
+    "primaryImage": "./assets/RR Signature Products/Floodlights/QUANTO FLOODLIGHT/catalogue-2_page_071.jpg",
+    "images": [
+      "./assets/RR Signature Products/Floodlights/QUANTO FLOODLIGHT/catalogue-2_page_071.jpg"
+    ],
+    "description": "QUANTO FLOODLIGHT – 8W I 12W I 20W",
+    "specs": [
+      "FLOODLIGHT",
+      "20W I 30W I 50W I 100W",
+      "150W I 200W",
+      "QUANTO PRO",
+      "QUANTO SLEEK",
+      "Wattage Color",
+      "Dimension",
+      "PF",
+      "Lumen Variants",
+      "(LxW) mm Efficacy",
+      "20W Pro",
+      "CW/WW"
+    ]
+  },
+  {
+    "id": "garden-lights-garden-glow-bollard",
+    "category": "Garden Lights",
+    "model": "GARDEN GLOW BOLLARD",
+    "primaryImage": "./assets/RR Signature Products/Garden Lights/GARDEN GLOW BOLLARD/catalogue-2_page_081.jpg",
+    "images": [
+      "./assets/RR Signature Products/Garden Lights/GARDEN GLOW BOLLARD/catalogue-2_page_081.jpg"
+    ],
+    "description": "GARDEN GLOW BOLLARD – BOLLARD",
+    "specs": [
+      "10W",
+      "Unique Architectural",
+      "Design Wattage",
+      "CCT",
+      "Dimension",
+      "CRI",
+      "Variants",
+      "CW/WW/NW",
+      "620x150x150",
+      ">80",
+      "Outdoor Lighting",
+      "Lifelong Brightness"
+    ]
+  },
+  {
+    "id": "gate-lights-gate-decor",
+    "category": "Gate Lights",
+    "model": "GATE DECOR",
+    "primaryImage": "./assets/RR Signature Products/Gate Lights/GATE DECOR/catalogue-2_page_091.jpg",
+    "images": [
+      "./assets/RR Signature Products/Gate Lights/GATE DECOR/catalogue-2_page_091.jpg"
+    ],
+    "description": "GATE DECOR – DECOR",
+    "specs": [
+      "150MM/200MM/250MM",
+      "Homes School",
+      "& College Bunglows",
+      "Office Areas",
+      "B22 base",
+      "cap",
+      "IK07",
+      "Strong Polycarbonate",
+      "body Secura 200mm",
+      "Sydney Spark 250mm Thunder 200mm",
+      "Glowbox 200mm Berlin Bright 200mm"
+    ]
+  },
+  {
+    "id": "gate-lights-milan-magic",
+    "category": "Gate Lights",
+    "model": "MILAN MAGIC",
+    "primaryImage": "./assets/RR Signature Products/Gate Lights/MILAN MAGIC/catalogue-2_page_087.jpg",
+    "images": [
+      "./assets/RR Signature Products/Gate Lights/MILAN MAGIC/catalogue-2_page_087.jpg"
+    ],
+    "description": "MILAN MAGIC – GATE",
+    "specs": [
+      "DECOR",
+      "10W I 20W",
+      "Homes School",
+      "& College Bunglows",
+      "Office Areas",
+      "Milan Magic 10W",
+      "152mm x 152mm x 195mm",
+      "Milan Magic 20W",
+      "200mm x 200mm x 250mm",
+      "Aluminium Die Cast",
+      "body Outdoor",
+      "Usage Weather"
+    ]
+  },
+  {
+    "id": "gate-lights-swiss-shine",
+    "category": "Gate Lights",
+    "model": "SWISS SHINE",
+    "primaryImage": "./assets/RR Signature Products/Gate Lights/SWISS SHINE/catalogue-2_page_089.jpg",
+    "images": [
+      "./assets/RR Signature Products/Gate Lights/SWISS SHINE/catalogue-2_page_089.jpg"
+    ],
+    "description": "SWISS SHINE – GATE",
+    "specs": [
+      "DECOR",
+      "ROUND I SQUARE I OVAL",
+      "Homes School",
+      "& College Bunglows",
+      "Office Areas",
+      "Swiss Shine Square",
+      "220mm x 220mm x 215mm",
+      "Swiss Shine Oval",
+      "175mm x 165mm x 215mm",
+      "Swiss Shine Round",
+      "220mm x 190mm",
+      "Aluminium Die Cast"
+    ]
+  },
+  {
+    "id": "immersion-water-heaters-immersion-water-heater",
+    "category": "Immersion Water Heaters",
+    "model": "Immersion Water Heater",
+    "primaryImage": "./assets/RR Signature Products/Immersion Water Heaters/Immersion Water Heater/catalogue-3_page_019.jpg",
+    "images": [
+      "./assets/RR Signature Products/Immersion Water Heaters/Immersion Water Heater/catalogue-3_page_019.jpg"
+    ],
+    "description": "Immersion Water Heater – WATTAGE AVAILABLE",
+    "specs": [
+      "IRT",
+      "1000W 1500W",
+      "Automatic Cut Off",
+      "Heavy Heating Rod",
+      "Anti Rust Coated Heating",
+      "Rod ISI Mark 3 pin",
+      "Moulded Plug Water &",
+      "Shock Proof"
+    ]
+  },
+  {
+    "id": "infrared-induction-cooktops-2200w-n",
+    "category": "Infrared  Induction Cooktops",
+    "model": "2200W N",
+    "primaryImage": "./assets/RR Signature Products/Infrared  Induction Cooktops/2200W N/catalogue-1_page_011_1.png",
+    "images": [
+      "./assets/RR Signature Products/Infrared  Induction Cooktops/2200W N/catalogue-1_page_011_1.png",
+      "./assets/RR Signature Products/Infrared  Induction Cooktops/2200W N/catalogue-3_page_061.jpg"
+    ],
+    "description": "2200W N – Infrared Cooktop A Grade",
+    "specs": [
+      "Crystal Glass For Longer Durability",
+      "Feather Touch Control",
+      "High/Low Volatge Auto",
+      "Cut Off Adjustable",
+      "Temperature Control",
+      "BBQ Grill",
+      "FREE",
+      "On Glass",
+      "On Site",
+      "Infra Red Cooktop A Grade"
+    ]
+  },
+  {
+    "id": "infrared-induction-cooktops-icp-2100",
+    "category": "Infrared  Induction Cooktops",
+    "model": "ICP 2100",
+    "primaryImage": "./assets/RR Signature Products/Infrared  Induction Cooktops/ICP 2100/catalogue-1_page_011_2.png",
+    "images": [
+      "./assets/RR Signature Products/Infrared  Induction Cooktops/ICP 2100/catalogue-1_page_011_2.png"
+    ],
+    "description": "ICP 2100 – Induction Cooktop A Grade",
+    "specs": [
+      "Crystal Glass For Longer Durability",
+      "35% Faster Cooking*",
+      "2100W",
+      "Feather Touch Control",
+      "Keep Warm Function",
+      "Child Lock For Safety*",
+      "On Site"
+    ]
+  },
+  {
+    "id": "infrared-induction-cooktops-ics-1700",
+    "category": "Infrared  Induction Cooktops",
+    "model": "ICS-1700",
+    "primaryImage": "./assets/RR Signature Products/Infrared  Induction Cooktops/ICS-1700/catalogue-1_page_012_2.png",
+    "images": [
+      "./assets/RR Signature Products/Infrared  Induction Cooktops/ICS-1700/catalogue-1_page_012_2.png"
+    ],
+    "description": "ICS-1700 – Induction Cooktop A Grade",
+    "specs": [
+      "Crystal Glass For Longer Durability",
+      "35% Faster Cooking*",
+      "1700W",
+      "Keep Warm Function",
+      "Advance Double Ring",
+      "Coil High Voltage",
+      "Shield Protection Upto 5000V",
+      "On Site"
+    ]
+  },
+  {
+    "id": "infrared-induction-cooktops-ics-1900",
+    "category": "Infrared  Induction Cooktops",
+    "model": "ICS-1900",
+    "primaryImage": "./assets/RR Signature Products/Infrared  Induction Cooktops/ICS-1900/catalogue-1_page_012_1.png",
+    "images": [
+      "./assets/RR Signature Products/Infrared  Induction Cooktops/ICS-1900/catalogue-1_page_012_1.png",
+      "./assets/RR Signature Products/Infrared  Induction Cooktops/ICS-1900/catalogue-3_page_063.jpg"
+    ],
+    "description": "ICS-1900 – A Grade Crystal Glass For",
+    "specs": [
+      "Longer Durability",
+      "35% Faster Cooking*",
+      "Induction Cooktop",
+      "1900W",
+      "Keep Warm Function",
+      "Advance Double Ring",
+      "Coil High Voltage",
+      "Shield Protection Upto 4500V",
+      "On Site"
+    ]
+  },
+  {
+    "id": "infrared-induction-cooktops-ifr-2200-ignite",
+    "category": "Infrared  Induction Cooktops",
+    "model": "IFR-2200 IGNITE",
+    "primaryImage": "./assets/RR Signature Products/Infrared  Induction Cooktops/IFR-2200 IGNITE/catalogue-1_page_010_2.png",
+    "images": [
+      "./assets/RR Signature Products/Infrared  Induction Cooktops/IFR-2200 IGNITE/catalogue-1_page_010_2.png"
+    ],
+    "description": "IFR-2200 IGNITE – Infrared Cooktop",
+    "specs": [
+      "IFR- 2200 IGNITE+",
+      "2200W",
+      "35% Faster Cooking*",
+      "On Site",
+      "High/Low Volatge Auto",
+      "Cut Off A Grade",
+      "Crystal Glass For Longer Durability",
+      "Feather Touch Control",
+      "BBQ Grill",
+      "FREE"
+    ]
+  },
+  {
+    "id": "infrared-induction-cooktops-ifr-2200-max",
+    "category": "Infrared  Induction Cooktops",
+    "model": "IFR-2200 MAX",
+    "primaryImage": "./assets/RR Signature Products/Infrared  Induction Cooktops/IFR-2200 MAX/catalogue-1_page_009_2.png",
+    "images": [
+      "./assets/RR Signature Products/Infrared  Induction Cooktops/IFR-2200 MAX/catalogue-1_page_009_2.png"
+    ],
+    "description": "IFR-2200 MAX – Infrared Cooktop A Grade",
+    "specs": [
+      "Crystal Glass For Longer Durability",
+      "35% Faster Cooking*",
+      "2200W",
+      "Feather Touch Control",
+      "Child Lock For Safety*",
+      "On Site"
+    ]
+  },
+  {
+    "id": "infrared-induction-cooktops-ifr-2200-pro",
+    "category": "Infrared  Induction Cooktops",
+    "model": "IFR-2200 PRO",
+    "primaryImage": "./assets/RR Signature Products/Infrared  Induction Cooktops/IFR-2200 PRO/catalogue-1_page_010_1.png",
+    "images": [
+      "./assets/RR Signature Products/Infrared  Induction Cooktops/IFR-2200 PRO/catalogue-1_page_010_1.png",
+      "./assets/RR Signature Products/Infrared  Induction Cooktops/IFR-2200 PRO/catalogue-3_page_059.jpg"
+    ],
+    "description": "IFR-2200 PRO – Dual-Cail Infrared Cooktop High/Low",
+    "specs": [
+      "Volatge Auto Cut Off",
+      "2200W",
+      "On Glass",
+      "On Site",
+      "A Grade Crystal Glass For",
+      "Longer Durability Feather",
+      "Touch Control BBQ Grill",
+      "FREE",
+      "Dual-Cail Infra Red Cooktop",
+      "Touch Control High/Low",
+      "Adjustable Temperature",
+      "Control"
+    ]
+  },
+  {
+    "id": "infrared-induction-cooktops-infra-red-cooktop",
+    "category": "Infrared  Induction Cooktops",
+    "model": "INFRA RED COOKTOP",
+    "primaryImage": "./assets/RR Signature Products/Infrared  Induction Cooktops/INFRA RED COOKTOP/catalogue-1_page_009_1.png",
+    "images": [
+      "./assets/RR Signature Products/Infrared  Induction Cooktops/INFRA RED COOKTOP/catalogue-1_page_009_1.png",
+      "./assets/RR Signature Products/Infrared  Induction Cooktops/INFRA RED COOKTOP/catalogue-3_page_057.jpg"
+    ],
+    "description": "INFRA RED COOKTOP – Infrared Cooktop A Grade",
+    "specs": [
+      "Crystal Glass For Longer Durability",
+      "Feather Touch Control",
+      "High/Low Volatge Auto",
+      "Cut Off Adjustable",
+      "Temperature Control",
+      "2200W",
+      "BBQ Grill",
+      "FREE",
+      "On Glass",
+      "On Site",
+      "A Grade Crystal Glass For",
+      "Longer Durability Feather"
+    ]
+  },
+  {
+    "id": "inverter-lamps-led-inverter-lamp",
+    "category": "Inverter Lamps",
+    "model": "LED INVERTER LAMP",
+    "primaryImage": "./assets/RR Signature Products/Inverter Lamps/LED INVERTER LAMP/catalogue-2_page_105.jpg",
+    "images": [
+      "./assets/RR Signature Products/Inverter Lamps/LED INVERTER LAMP/catalogue-2_page_105.jpg"
+    ],
+    "description": "LED INVERTER LAMP – 9W I 12W I 15W | 30W",
+    "specs": [
+      "INVERTER",
+      "LAMP",
+      "Input Color",
+      "Size",
+      "PF",
+      "CRI",
+      "Lumen@",
+      "Power",
+      "(mm)",
+      "6500K",
+      "9W",
+      "CDL"
+    ]
+  },
+  {
+    "id": "juicer-mixer-grinders-fructo-502",
+    "category": "Juicer Mixer Grinders",
+    "model": "FRUCTO 502",
+    "primaryImage": "./assets/RR Signature Products/Juicer Mixer Grinders/FRUCTO 502/catalogue-1_page_017_1.png",
+    "images": [
+      "./assets/RR Signature Products/Juicer Mixer Grinders/FRUCTO 502/catalogue-1_page_017_1.png"
+    ],
+    "description": "FRUCTO 502 – JUICER MIXER GRINDERS",
+    "specs": [
+      "Freshness begins with every glass.",
+      "Introducing RR Signature Juicer Mixer Grinders, designed to bring together",
+      "juicing, blending and grinding in one versatile appliance. Whether it's a",
+      "refreshing morning juice, a healthy smoothie or freshly ground masalas, every",
+      "preparation becomes quicker, easier and more enjoyable.",
+      "Built with durable materials, powerful performance and intuitive functionality,",
+      "our juicer mixer grinders help you embrace healthier living without",
+      "compromising on convenience.",
+      "Discover a smarter way to prepare nutritious meals and refreshing beverages",
+      "for the entire family."
+    ]
+  },
+  {
+    "id": "juicer-mixer-grinders-fructo-503",
+    "category": "Juicer Mixer Grinders",
+    "model": "FRUCTO 503",
+    "primaryImage": "./assets/RR Signature Products/Juicer Mixer Grinders/FRUCTO 503/catalogue-1_page_017_2.png",
+    "images": [
+      "./assets/RR Signature Products/Juicer Mixer Grinders/FRUCTO 503/catalogue-1_page_017_2.png"
+    ],
+    "description": "FRUCTO 503 – Juicer Mixer Grinder",
+    "specs": [
+      "FRUCTO 502",
+      "All-in-one Juicer,",
+      "Mixer and Grinder",
+      "with 2 Jars Leak-Proof Lids",
+      "& Covered Spout",
+      "500W",
+      "Dual Air Vent Technology",
+      "Upto 20,000",
+      "RPM Motor Speed",
+      "Continuous Grinding*",
+      "PRODUCT",
+      "ON MOTOR"
+    ]
+  },
+  {
+    "id": "led-battens-aluminum-frame",
+    "category": "LED Battens",
+    "model": "ALUMINUM FRAME",
+    "primaryImage": "./assets/RR Signature Products/LED Battens/ALUMINUM FRAME/catalogue-2_page_099.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Battens/ALUMINUM FRAME/catalogue-2_page_099.jpg"
+    ],
+    "description": "ALUMINUM FRAME – 40W I 50W | 70W",
+    "specs": [
+      "LED BATTEN",
+      "FRAME",
+      "Aluminium Mechanical",
+      "Construction Robust",
+      "Electronics For Long-life &",
+      "Diffused Optics Sleek",
+      "Square Shape",
+      "Illumination Product",
+      "Input Color",
+      "Shape Size",
+      "PF",
+      "CRI"
+    ]
+  },
+  {
+    "id": "led-battens-duraglo-lite-color",
+    "category": "LED Battens",
+    "model": "DURAGLO LITE COLOR",
+    "primaryImage": "./assets/RR Signature Products/LED Battens/DURAGLO LITE COLOR/catalogue-2_page_103.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Battens/DURAGLO LITE COLOR/catalogue-2_page_103.jpg"
+    ],
+    "description": "DURAGLO LITE COLOR – LED COLOR",
+    "specs": [
+      "BATTEN",
+      "LITE",
+      "22W",
+      "Product Input",
+      "Color Shape",
+      "Size",
+      "PF",
+      "CRI",
+      "Material Name",
+      "Power",
+      "(mm)",
+      "Pink, Green,"
+    ]
+  },
+  {
+    "id": "led-battens-pc-frame",
+    "category": "LED Battens",
+    "model": "PC FRAME",
+    "primaryImage": "./assets/RR Signature Products/LED Battens/PC FRAME/catalogue-2_page_101.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Battens/PC FRAME/catalogue-2_page_101.jpg"
+    ],
+    "description": "PC FRAME – 32W | 45W",
+    "specs": [
+      "LED BATTEN",
+      "6W I 10W I 20W I 22W I 24W",
+      "Product Input",
+      "Color Shape",
+      "Size",
+      "PF",
+      "CRI",
+      "Lumen @",
+      "Name Power",
+      "(mm)",
+      "6500K",
+      "DuraGlo Lite"
+    ]
+  },
+  {
+    "id": "led-bulbs-blaze-eco",
+    "category": "LED Bulbs",
+    "model": "BLAZE ECO",
+    "primaryImage": "./assets/RR Signature Products/LED Bulbs/BLAZE ECO/catalogue-2_page_111.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Bulbs/BLAZE ECO/catalogue-2_page_111.jpg"
+    ],
+    "description": "BLAZE ECO – 40W I 50W | 70W",
+    "specs": [
+      "LED BLAZE",
+      "ECO",
+      "LAMPS",
+      "12W I 15W I 18W I 30W",
+      "Input Color",
+      "Base/Cap Size",
+      "PF",
+      "CRI",
+      "Lumen Power",
+      "Dia x H (mm)",
+      "Efficacy",
+      "12W"
+    ]
+  },
+  {
+    "id": "led-bulbs-hb-pro-lite",
+    "category": "LED Bulbs",
+    "model": "HB PRO LITE",
+    "primaryImage": "./assets/RR Signature Products/LED Bulbs/HB PRO LITE/catalogue-2_page_113.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Bulbs/HB PRO LITE/catalogue-2_page_113.jpg"
+    ],
+    "description": "HB PRO LITE – LED HB",
+    "specs": [
+      "PRO LITE",
+      "LAMPS",
+      "2.7W I 6W I 8W I 9W I 10W I 12W",
+      "15W I 18W I 20W I 24W",
+      "Input Color",
+      "Base/Cap Size",
+      "PF",
+      "CRI",
+      "Lumens Power",
+      "Dia x H (mm)",
+      "2.7W",
+      "CW"
+    ]
+  },
+  {
+    "id": "led-downlights-astrion",
+    "category": "LED Downlights",
+    "model": "ASTRION",
+    "primaryImage": "./assets/RR Signature Products/LED Downlights/ASTRION/catalogue-2_page_039.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Downlights/ASTRION/catalogue-2_page_039.jpg"
+    ],
+    "description": "ASTRION – DOWNLIGHTER",
+    "specs": [
+      "12W",
+      "Homes Small offices",
+      "Showrooms Wattage",
+      "Color Cut-out",
+      "Dimension",
+      "PF",
+      "CRI",
+      "*Lumen Variants",
+      "Dia(mm)",
+      "Dia x H(mm)",
+      "Efficacy",
+      "12W Round"
+    ]
+  },
+  {
+    "id": "led-downlights-celestia-backlit",
+    "category": "LED Downlights",
+    "model": "CELESTIA BACKLIT",
+    "primaryImage": "./assets/RR Signature Products/LED Downlights/CELESTIA BACKLIT/catalogue-2_page_037.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Downlights/CELESTIA BACKLIT/catalogue-2_page_037.jpg"
+    ],
+    "description": "CELESTIA BACKLIT – CELESTIA LED",
+    "specs": [
+      "DOWNLIGHTER",
+      "(Backlit Technology)",
+      "6W I 10W I 12W I 15W I 20W",
+      "Homes Small offices",
+      "Showrooms Wattage",
+      "Color Cut-out",
+      "PF",
+      "CRI",
+      "*Lumen Variants",
+      "Dimension(mm)",
+      "Efficacy",
+      "6W Round"
+    ]
+  },
+  {
+    "id": "led-downlights-celestia-neo",
+    "category": "LED Downlights",
+    "model": "CELESTIA NEO",
+    "primaryImage": "./assets/RR Signature Products/LED Downlights/CELESTIA NEO/catalogue-2_page_035.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Downlights/CELESTIA NEO/catalogue-2_page_035.jpg"
+    ],
+    "description": "CELESTIA NEO – NEO",
+    "specs": [
+      "DOWNLIGHT",
+      "9W I 15W",
+      "6500K CW",
+      "3000K WW",
+      "4000K NW",
+      "OFF",
+      "ON",
+      "X1",
+      "* CCT-6500K (CDL), 4000K (NW), 3000K (WW)",
+      "* Lumens @ 6500K, may vary as per colour",
+      "Homes Small offices",
+      "Showrooms High Colour"
+    ]
+  },
+  {
+    "id": "led-downlights-nevolux-deep-recessed",
+    "category": "LED Downlights",
+    "model": "NEVOLUX DEEP RECESSED",
+    "primaryImage": "./assets/RR Signature Products/LED Downlights/NEVOLUX DEEP RECESSED/catalogue-2_page_033.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Downlights/NEVOLUX DEEP RECESSED/catalogue-2_page_033.jpg"
+    ],
+    "description": "NEVOLUX DEEP RECESSED – 12W | 18W",
+    "specs": [
+      "DEEP RECESSED",
+      "DOWNLIGHTER",
+      "Small offices Showrooms",
+      "Homes Shops",
+      "Cafes Wattage",
+      "Color Housing",
+      "Cut-out",
+      "PF",
+      "CRI",
+      "*Lumen Variants",
+      "Dimension(mm)",
+      "Efficacy"
+    ]
+  },
+  {
+    "id": "led-downlights-skylume-neo-2in1",
+    "category": "LED Downlights",
+    "model": "SKYLUME NEO 2IN1",
+    "primaryImage": "./assets/RR Signature Products/LED Downlights/SKYLUME NEO 2IN1/catalogue-2_page_031.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Downlights/SKYLUME NEO 2IN1/catalogue-2_page_031.jpg"
+    ],
+    "description": "SKYLUME NEO 2IN1 – 2in1 LED",
+    "specs": [
+      "DOWNLIGHTER",
+      "12W",
+      "Homes Shops",
+      "Cafes",
+      "INNER RING",
+      "GLOW",
+      "OUTER SING",
+      "BOTH RINGS",
+      "ON",
+      "X1",
+      "OFF",
+      "* CCT-6500K (CDL), 3000K (WW), Pink, Blue, Green (PBG)"
+    ]
+  },
+  {
+    "id": "led-downlights-spectra-eco-swivel",
+    "category": "LED Downlights",
+    "model": "SPECTRA ECO SWIVEL",
+    "primaryImage": "./assets/RR Signature Products/LED Downlights/SPECTRA ECO SWIVEL/catalogue-2_page_063.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Downlights/SPECTRA ECO SWIVEL/catalogue-2_page_063.jpg"
+    ],
+    "description": "SPECTRA ECO SWIVEL – SWIVEL",
+    "specs": [
+      "DOWNLIGHT",
+      "3W I 6W I 9W I 12W",
+      "Wattage Color",
+      "Cut-out",
+      "PF",
+      "CRI",
+      "Lumen",
+      "CCT",
+      "Variants Dimension",
+      "Efficacy",
+      "(mm)",
+      "3W"
+    ]
+  },
+  {
+    "id": "led-drivers-wave-dc-strip-cv-driver",
+    "category": "LED Drivers",
+    "model": "WAVE DC STRIP CV DRIVER",
+    "primaryImage": "./assets/RR Signature Products/LED Drivers/WAVE DC STRIP CV DRIVER/catalogue-2_page_027.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Drivers/WAVE DC STRIP CV DRIVER/catalogue-2_page_027.jpg"
+    ],
+    "description": "WAVE DC STRIP CV DRIVER – LED WAVE DC",
+    "specs": [
+      "STRIP CV",
+      "DRIVER",
+      "24W I 60W I 96W",
+      "Wattage Driver Type",
+      "Dimension Output",
+      "Output Body",
+      "Variants Voltage",
+      "Current",
+      "24W",
+      "Constant Voltage",
+      "85 x 38 x 30",
+      "12V"
+    ]
+  },
+  {
+    "id": "led-panels-celestia-2x2",
+    "category": "LED Panels",
+    "model": "CELESTIA 2X2",
+    "primaryImage": "./assets/RR Signature Products/LED Panels/CELESTIA 2X2/catalogue-2_page_041.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Panels/CELESTIA 2X2/catalogue-2_page_041.jpg"
+    ],
+    "description": "CELESTIA 2X2 – 2x2 LED",
+    "specs": [
+      "DOWNLIGHTER",
+      "40W",
+      "Wattage Color",
+      "Cut-out",
+      "PF",
+      "CRI",
+      "*Lumen Variants",
+      "Dimension Efficacy",
+      "(mm)",
+      "CW/NW/WW",
+      "595mmx595mm",
+      ">0.9"
+    ]
+  },
+  {
+    "id": "led-panels-celestia-surface-panel",
+    "category": "LED Panels",
+    "model": "CELESTIA SURFACE PANEL",
+    "primaryImage": "./assets/RR Signature Products/LED Panels/CELESTIA SURFACE PANEL/catalogue-2_page_049.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Panels/CELESTIA SURFACE PANEL/catalogue-2_page_049.jpg"
+    ],
+    "description": "CELESTIA SURFACE PANEL – LED SURFACE",
+    "specs": [
+      "PANEL",
+      "8W I 15W I 22W",
+      "High Colour Rendering",
+      "Index (CRI>80)",
+      "for true colours Safe For",
+      "Eyes Slim",
+      "Compact Beauty",
+      "Homes Shops",
+      "Wattage Color",
+      "Dimension",
+      "PF",
+      "CRI"
+    ]
+  },
+  {
+    "id": "led-panels-metlum-metal-slim-panel",
+    "category": "LED Panels",
+    "model": "METLUM METAL SLIM PANEL",
+    "primaryImage": "./assets/RR Signature Products/LED Panels/METLUM METAL SLIM PANEL/catalogue-2_page_043.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Panels/METLUM METAL SLIM PANEL/catalogue-2_page_043.jpg"
+    ],
+    "description": "METLUM METAL SLIM PANEL – 6W | 9W | 12W | 15W | 18W",
+    "specs": [
+      "SLIM PANEL",
+      "(Edgelit Technology)",
+      "Wattage Color",
+      "Cut-out",
+      "PF",
+      "CRI",
+      "*Lumen Variants",
+      "Dimension Efficacy",
+      "(mm)",
+      "6W",
+      "CW/NW/WW",
+      ">0.9"
+    ]
+  },
+  {
+    "id": "led-panels-striker-surface-panel",
+    "category": "LED Panels",
+    "model": "STRIKER SURFACE PANEL",
+    "primaryImage": "./assets/RR Signature Products/LED Panels/STRIKER SURFACE PANEL/catalogue-2_page_065.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Panels/STRIKER SURFACE PANEL/catalogue-2_page_065.jpg"
+    ],
+    "description": "STRIKER SURFACE PANEL – LED SURFACE",
+    "specs": [
+      "PANEL-STRIKER",
+      "3W I 5W",
+      "Furniture Wattage",
+      "Color Size",
+      "PF",
+      "CRI",
+      "*Lumen Variants",
+      "Dia xH",
+      "Efficacy",
+      "(mm)",
+      "3W",
+      "CW/WW"
+    ]
+  },
+  {
+    "id": "led-panels-zolo-eco-pc-slim-panel",
+    "category": "LED Panels",
+    "model": "ZOLO ECO PC SLIM PANEL",
+    "primaryImage": "./assets/RR Signature Products/LED Panels/ZOLO ECO PC SLIM PANEL/catalogue-2_page_045.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Panels/ZOLO ECO PC SLIM PANEL/catalogue-2_page_045.jpg"
+    ],
+    "description": "ZOLO ECO PC SLIM PANEL – SLIM PANEL",
+    "specs": [
+      "(Edgelit Technology)",
+      "6W I 9W I 12W I 15W",
+      "Wattage Color",
+      "Cut-out",
+      "PF",
+      "CRI",
+      "*Lumen Variants",
+      "Dimension Efficacy",
+      "(mm)",
+      "6W Round",
+      "CW",
+      ">0.9"
+    ]
+  },
+  {
+    "id": "led-strip-rope-lights-wave-eco-led-strip-light",
+    "category": "LED Strip  Rope Lights",
+    "model": "WAVE ECO LED STRIP LIGHT",
+    "primaryImage": "./assets/RR Signature Products/LED Strip  Rope Lights/WAVE ECO LED STRIP LIGHT/catalogue-2_page_025.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Strip  Rope Lights/WAVE ECO LED STRIP LIGHT/catalogue-2_page_025.jpg"
+    ],
+    "description": "WAVE ECO LED STRIP LIGHT – STRIP LIGHT",
+    "specs": [
+      "24W I 48W I 60W",
+      "Rich colors",
+      "for decoration Wattage",
+      "Wattage CCT/Color",
+      "Length LEDs/m",
+      "(per meter)",
+      "24W",
+      "4.8W/m",
+      "CW/NW/WW",
+      "5m",
+      "Red/Green/Blue/Pink Ice Blue/Amber",
+      "48W"
+    ]
+  },
+  {
+    "id": "led-strip-rope-lights-wave-led-rope-light",
+    "category": "LED Strip  Rope Lights",
+    "model": "WAVE LED ROPE LIGHT",
+    "primaryImage": "./assets/RR Signature Products/LED Strip  Rope Lights/WAVE LED ROPE LIGHT/catalogue-2_page_023.jpg",
+    "images": [
+      "./assets/RR Signature Products/LED Strip  Rope Lights/WAVE LED ROPE LIGHT/catalogue-2_page_023.jpg"
+    ],
+    "description": "WAVE LED ROPE LIGHT – ROPE LIGHT",
+    "specs": [
+      "8W per/mtr",
+      "12W per/mtr",
+      "Homes Homes",
+      "Showrooms Restaurants",
+      "Galleries Poles Lighting",
+      "Contour Lighting",
+      "Wattage Color",
+      "Length LEDs/m",
+      "IP",
+      "(per meter)",
+      "(meter)",
+      "8W/m"
+    ]
+  },
+  {
+    "id": "mixer-grinders-avika-503",
+    "category": "Mixer Grinders",
+    "model": "AVIKA 503",
+    "primaryImage": "./assets/RR Signature Products/Mixer Grinders/AVIKA 503/catalogue-1_page_015_2.png",
+    "images": [
+      "./assets/RR Signature Products/Mixer Grinders/AVIKA 503/catalogue-1_page_015_2.png",
+      "./assets/RR Signature Products/Mixer Grinders/AVIKA 503/catalogue-3_page_071.jpg"
+    ],
+    "description": "AVIKA 503 – Mixer Grinder",
+    "specs": [
+      "LYANA 753",
+      "3 Stainless",
+      "Steel Jars Enhances",
+      "Flow breakers",
+      "750W",
+      "Dual Air Vent Technology",
+      "20,000 RPM",
+      "Motor Speed Continuous",
+      "Grinding*",
+      "PRODUCT",
+      "ON MOTOR",
+      "Available in 2 Colors Mixer Grinder"
+    ]
+  },
+  {
+    "id": "mixer-grinders-kiana-503",
+    "category": "Mixer Grinders",
+    "model": "KIANA 503",
+    "primaryImage": "./assets/RR Signature Products/Mixer Grinders/KIANA 503/catalogue-1_page_016_1.png",
+    "images": [
+      "./assets/RR Signature Products/Mixer Grinders/KIANA 503/catalogue-1_page_016_1.png"
+    ],
+    "description": "KIANA 503 – Mixer Grinder",
+    "specs": [
+      "AVIKA 503",
+      "3 Stainless",
+      "Steel Jars Enhances Flow",
+      "Breakers/Robust Body Design",
+      "500W",
+      "Dual Air Vent Technology",
+      "20,000 RPM",
+      "Motor Speed Continuous",
+      "Grinding*",
+      "PRODUCT",
+      "ON MOTOR"
+    ]
+  },
+  {
+    "id": "mixer-grinders-kiana-753",
+    "category": "Mixer Grinders",
+    "model": "KIANA 753",
+    "primaryImage": "./assets/RR Signature Products/Mixer Grinders/KIANA 753/catalogue-1_page_016_2.png",
+    "images": [
+      "./assets/RR Signature Products/Mixer Grinders/KIANA 753/catalogue-1_page_016_2.png"
+    ],
+    "description": "KIANA 753 – Mixer Grinder",
+    "specs": [
+      "KIANA 503",
+      "3 Stainless",
+      "Steel Jars Enhances",
+      "Flow breakers",
+      "500W",
+      "Dual Air Vent Technology",
+      "20,000 RPM",
+      "Motor Speed Continuous",
+      "Grinding*",
+      "PRODUCT",
+      "ON MOTOR"
+    ]
+  },
+  {
+    "id": "mixer-grinders-lyana-753",
+    "category": "Mixer Grinders",
+    "model": "LYANA 753",
+    "primaryImage": "./assets/RR Signature Products/Mixer Grinders/LYANA 753/catalogue-1_page_015_1.png",
+    "images": [
+      "./assets/RR Signature Products/Mixer Grinders/LYANA 753/catalogue-1_page_015_1.png"
+    ],
+    "description": "LYANA 753 – Mixer Grinder",
+    "specs": [
+      "LYANA 754J",
+      "3 Stainless Steel",
+      "Juicer Jars Enhances",
+      "Flow breakers",
+      "750W",
+      "Dual Air Vent Technology",
+      "20,000 RPM",
+      "Motor Speed Continuous",
+      "Grinding*",
+      "PRODUCT",
+      "ON MOTOR"
+    ]
+  },
+  {
+    "id": "mixer-grinders-lyana-754j",
+    "category": "Mixer Grinders",
+    "model": "LYANA 754J",
+    "primaryImage": "./assets/RR Signature Products/Mixer Grinders/LYANA 754J/catalogue-3_page_069.jpg",
+    "images": [
+      "./assets/RR Signature Products/Mixer Grinders/LYANA 754J/catalogue-3_page_069.jpg"
+    ],
+    "description": "LYANA 754J – Mixer Grinder",
+    "specs": [
+      "3 Stainless Steel",
+      "Juicer Jars Enhances",
+      "Flow breakers",
+      "750W",
+      "Heavy Duty Copper Arm Motor & Dual",
+      "Air Vent Technology",
+      "20,000 RPM",
+      "Motor Speed Continuous",
+      "Grinding*",
+      "PRODUCT",
+      "ON MOTOR"
+    ]
+  },
+  {
+    "id": "mixer-grinders-zaria-503",
+    "category": "Mixer Grinders",
+    "model": "ZARIA 503",
+    "primaryImage": "./assets/RR Signature Products/Mixer Grinders/ZARIA 503/catalogue-1_page_014_2.png",
+    "images": [
+      "./assets/RR Signature Products/Mixer Grinders/ZARIA 503/catalogue-1_page_014_2.png"
+    ],
+    "description": "ZARIA 503 – Mixer Grinder",
+    "specs": [
+      "ZARIA 753",
+      "3 Stainless",
+      "Steel Jars Clip locks for",
+      "Handsfree Operation",
+      "750W",
+      "Dual Air Vent Technology",
+      "20000 RPM",
+      "Motor Speed Continuous",
+      "Grinding*",
+      "PRODUCT",
+      "ON MOTOR",
+      "100%"
+    ]
+  },
+  {
+    "id": "mixer-grinders-zaria-753",
+    "category": "Mixer Grinders",
+    "model": "ZARIA 753",
+    "primaryImage": "./assets/RR Signature Products/Mixer Grinders/ZARIA 753/catalogue-1_page_014_1.png",
+    "images": [
+      "./assets/RR Signature Products/Mixer Grinders/ZARIA 753/catalogue-1_page_014_1.png"
+    ],
+    "description": "ZARIA 753 – MIXER GRINDERS",
+    "specs": [
+      "Preparing every meal begins with the perfect blend of power and",
+      "precision.",
+      "Introducing RR Signature Mixer Grinders, thoughtfully engineered",
+      "to simplify everyday cooking while delivering consistent",
+      "performance for every recipe. Designed to meet the demands of",
+      "Indian kitchens, our mixer grinders combine powerful motors,",
+      "durable construction and intelligent features that make grinding,",
+      "blending and mixing effortless.",
+      "Backed by RR's legacy of engineering excellence, every appliance is",
+      "crafted for reliability, safety and long-lasting performance.",
+      "Whether you're preparing fresh chutneys, aromatic spice blends or",
+      "smooth batters, RR Signature helps you achieve perfect results"
+    ]
+  },
+  {
+    "id": "room-heaters-hcp-21",
+    "category": "Room Heaters",
+    "model": "HCP-21",
+    "primaryImage": "./assets/RR Signature Products/Room Heaters/HCP-21/catalogue-3_page_027.jpg",
+    "images": [
+      "./assets/RR Signature Products/Room Heaters/HCP-21/catalogue-3_page_027.jpg"
+    ],
+    "description": "HCP-21 – Fan Room Heater Auto",
+    "specs": [
+      "Cut Off Temperature",
+      "Control Knob Noiseless",
+      "Operation Powerful",
+      "Fan Motor Dual heat",
+      "Setting-800",
+      "W/ 1600 W"
+    ]
+  },
+  {
+    "id": "room-heaters-hcs-20",
+    "category": "Room Heaters",
+    "model": "HCS-20",
+    "primaryImage": "./assets/RR Signature Products/Room Heaters/HCS-20/catalogue-3_page_025.jpg",
+    "images": [
+      "./assets/RR Signature Products/Room Heaters/HCS-20/catalogue-3_page_025.jpg"
+    ],
+    "description": "HCS-20 – Room Heater Dual heat",
+    "specs": [
+      "Setting1000W",
+      "2000W",
+      "Adjustable Height",
+      "Auto Cut off"
+    ]
+  },
+  {
+    "id": "room-heaters-hl-320",
+    "category": "Room Heaters",
+    "model": "HL-320",
+    "primaryImage": "./assets/RR Signature Products/Room Heaters/HL-320/catalogue-3_page_023.jpg",
+    "images": [
+      "./assets/RR Signature Products/Room Heaters/HL-320/catalogue-3_page_023.jpg"
+    ],
+    "description": "HL-320 – Halogen Room Heater Noiseless",
+    "specs": [
+      "Operation",
+      "180⁰",
+      "Oscillation",
+      "3 Tube for",
+      "Instant Heating Auto",
+      "Cut off"
+    ]
+  },
+  {
+    "id": "room-heaters-sh-80",
+    "category": "Room Heaters",
+    "model": "SH-80",
+    "primaryImage": "./assets/RR Signature Products/Room Heaters/SH-80/catalogue-3_page_029.jpg",
+    "images": [
+      "./assets/RR Signature Products/Room Heaters/SH-80/catalogue-3_page_029.jpg"
+    ],
+    "description": "SH-80 – Carbon Table Heater Adjustable",
+    "specs": [
+      "Temperature Control Knob",
+      "Noiseless Operation",
+      "Auto Cut off",
+      "Shock Proof ABS Body",
+      "Less Oxygen Burning"
+    ]
+  },
+  {
+    "id": "sensor-lamps-motion-lux",
+    "category": "Sensor Lamps",
+    "model": "MOTION LUX",
+    "primaryImage": "./assets/RR Signature Products/Sensor Lamps/MOTION LUX/catalogue-2_page_109.jpg",
+    "images": [
+      "./assets/RR Signature Products/Sensor Lamps/MOTION LUX/catalogue-2_page_109.jpg"
+    ],
+    "description": "MOTION LUX – LED",
+    "specs": [
+      "SENSOR",
+      "LAMP",
+      "10W",
+      "Sensor Technology",
+      "High Functional Light Efficacy",
+      "(upto 100",
+      "Lumens per watt)",
+      "360⁰",
+      "Sensor Input",
+      "Color Size",
+      "PF",
+      "CRI"
+    ]
+  },
+  {
+    "id": "solar-street-lights-solux",
+    "category": "Solar Street Lights",
+    "model": "SOLUX",
+    "primaryImage": "./assets/RR Signature Products/Solar Street Lights/SOLUX/catalogue-2_page_073.jpg",
+    "images": [
+      "./assets/RR Signature Products/Solar Street Lights/SOLUX/catalogue-2_page_073.jpg"
+    ],
+    "description": "SOLUX – 8W I 12W I 20W",
+    "specs": [
+      "SOLAR",
+      "STREETLIGHT",
+      "Lumen Color",
+      "Dimension Weght(gm)",
+      "(LxW) mm",
+      "CW",
+      "317x170",
+      "415x205",
+      "510x230",
+      "640x250",
+      "Solar Light",
+      "Weather Protection"
+    ]
+  },
+  {
+    "id": "spotlights-spectra-eco-spotlight",
+    "category": "Spotlights",
+    "model": "SPECTRA ECO SPOTLIGHT",
+    "primaryImage": "./assets/RR Signature Products/Spotlights/SPECTRA ECO SPOTLIGHT/catalogue-2_page_067.jpg",
+    "images": [
+      "./assets/RR Signature Products/Spotlights/SPECTRA ECO SPOTLIGHT/catalogue-2_page_067.jpg"
+    ],
+    "description": "SPECTRA ECO SPOTLIGHT – SPOTLIGHT",
+    "specs": [
+      "2W",
+      "Homes Showrooms",
+      "Hotels Furniture",
+      "Wattage Color",
+      "Cut-out",
+      "PF",
+      "CRI",
+      "*Lumen Variants",
+      "Dimension Efficacy",
+      "(mm)",
+      "CW/WW",
+      "34.5"
+    ]
+  },
+  {
+    "id": "street-lights-sreeto-eco-al-body",
+    "category": "Street Lights",
+    "model": "SREETO ECO AL BODY",
+    "primaryImage": "./assets/RR Signature Products/Street Lights/SREETO ECO AL BODY/catalogue-2_page_077.jpg",
+    "images": [
+      "./assets/RR Signature Products/Street Lights/SREETO ECO AL BODY/catalogue-2_page_077.jpg"
+    ],
+    "description": "SREETO ECO AL BODY – STREET",
+    "specs": [
+      "LIGHT(AL BODY)",
+      "20W I 30W I 50W I 100W",
+      "School &",
+      "College Villas",
+      "Condominiums Cafes",
+      "Pathways Wattage",
+      "Color Dimension",
+      "PF",
+      "CRI",
+      "Lumen Power Surge",
+      "IP",
+      "Variants"
+    ]
+  },
+  {
+    "id": "street-lights-sreeto-eco-pc-body",
+    "category": "Street Lights",
+    "model": "SREETO ECO PC BODY",
+    "primaryImage": "./assets/RR Signature Products/Street Lights/SREETO ECO PC BODY/catalogue-2_page_079.jpg",
+    "images": [
+      "./assets/RR Signature Products/Street Lights/SREETO ECO PC BODY/catalogue-2_page_079.jpg"
+    ],
+    "description": "SREETO ECO PC BODY – STREET",
+    "specs": [
+      "LIGHT(PC BODY)",
+      "20W I 30W I 50W",
+      "School &",
+      "College Villas",
+      "Condominiums Cafes",
+      "Pathways Wattage",
+      "Color Dimension",
+      "PF",
+      "CRI",
+      "Lumen Power Surge",
+      "IP",
+      "Variants"
+    ]
+  },
+  {
+    "id": "street-lights-streeto-neo-sensor",
+    "category": "Street Lights",
+    "model": "STREETO NEO SENSOR",
+    "primaryImage": "./assets/RR Signature Products/Street Lights/STREETO NEO SENSOR/catalogue-2_page_075.jpg",
+    "images": [
+      "./assets/RR Signature Products/Street Lights/STREETO NEO SENSOR/catalogue-2_page_075.jpg"
+    ],
+    "description": "STREETO NEO SENSOR – STREET LIGHT",
+    "specs": [
+      "WITH SENSOR",
+      "45W",
+      "School &",
+      "College Villas",
+      "Wattage Color",
+      "Dimension",
+      "PF",
+      "CRI",
+      "Lumen Power Surge",
+      "IP",
+      "Variants",
+      "(LxW) mm Efficacy"
+    ]
+  },
+  {
+    "id": "wall-lights-wall-decor",
+    "category": "Wall Lights",
+    "model": "WALL DECOR",
+    "primaryImage": "./assets/RR Signature Products/Wall Lights/WALL DECOR/catalogue-2_page_093.jpg",
+    "images": [
+      "./assets/RR Signature Products/Wall Lights/WALL DECOR/catalogue-2_page_093.jpg"
+    ],
+    "description": "WALL DECOR – DECOR",
+    "specs": [
+      "150MM",
+      "Indoor Usage",
+      "B22 base",
+      "cap Strong",
+      "Polycarbonate",
+      "body Homes",
+      "School & College",
+      "Bunglows Office",
+      "Areas"
+    ]
+  },
+  {
+    "id": "water-heaters-amodh",
+    "category": "Water Heaters",
+    "model": "AMODH",
+    "primaryImage": "./assets/RR Signature Products/Water Heaters/AMODH/catalogue-3_page_011.jpg",
+    "images": [
+      "./assets/RR Signature Products/Water Heaters/AMODH/catalogue-3_page_011.jpg"
+    ],
+    "description": "AMODH – Storage Water Heater",
+    "specs": [
+      "SIZES AVAILABLE",
+      "10 15 25",
+      "HL",
+      "On Heating Element",
+      "On Product",
+      "On Tank",
+      "Magnesium Anode Rod",
+      "Dry Heating Protection",
+      "Thermal Cutout & Multi Safety",
+      "Valve Blue Diamond",
+      "Titanium Glass Line Tank",
+      "Whirflow Technology"
+    ]
+  },
+  {
+    "id": "water-heaters-gas-water-heater",
+    "category": "Water Heaters",
+    "model": "Gas Water Heater",
+    "primaryImage": "./assets/RR Signature Products/Water Heaters/Gas Water Heater/catalogue-3_page_015.jpg",
+    "images": [
+      "./assets/RR Signature Products/Water Heaters/Gas Water Heater/catalogue-3_page_015.jpg"
+    ],
+    "description": "Gas Water Heater – LPG/ PNG Water Heater",
+    "specs": [
+      "SIZES AVAILABLE",
+      "On Product",
+      "ISI Certified Product",
+      "Auto shut off",
+      "in 20 mins",
+      ">85% Heating",
+      "efficiency Flame Out",
+      "Protection Summer/Winter",
+      "Mode",
+      "PRODUCTS DIMENSIONS",
+      "Capacity",
+      "in Litres Dimensions (mm)"
+    ]
+  },
+  {
+    "id": "water-heaters-instant-water-heater",
+    "category": "Water Heaters",
+    "model": "Instant Water Heater",
+    "primaryImage": "./assets/RR Signature Products/Water Heaters/Instant Water Heater/catalogue-3_page_013.jpg",
+    "images": [
+      "./assets/RR Signature Products/Water Heaters/Instant Water Heater/catalogue-3_page_013.jpg"
+    ],
+    "description": "Instant Water Heater – On Heating Element",
+    "specs": [
+      "On Product",
+      "On Tank",
+      "SIZES AVAILABLE",
+      "PRODUCTS DIMENSIONS",
+      "Capacity",
+      "in Litres Dimensions (mm)",
+      "Pressure Release Valve",
+      "Dry Heating Protection",
+      "Rust & Shock Proof Premium",
+      "Plastic Body Dual LED",
+      "Indicator Heavy Copper",
+      "Heating Element"
+    ]
+  },
+  {
+    "id": "water-heaters-pyrros",
+    "category": "Water Heaters",
+    "model": "PYRROS",
+    "primaryImage": "./assets/RR Signature Products/Water Heaters/PYRROS/catalogue-3_page_005.jpg",
+    "images": [
+      "./assets/RR Signature Products/Water Heaters/PYRROS/catalogue-3_page_005.jpg"
+    ],
+    "description": "PYRROS – On Tank",
+    "specs": [
+      "On Heating Element",
+      "On Product",
+      "Magnesium Anode Rod",
+      "Thermal Cutout & Multi Safety",
+      "Valve Blue Diamond",
+      "Titanium Glass Line Tank",
+      "PRODUCTS DIMENSIONS",
+      "Capacity",
+      "in Litres Dimensions (mm)",
+      "Storage Water Heater Dry Heating",
+      "Protection Incloy Heating",
+      "Element"
+    ]
+  },
+  {
+    "id": "water-heaters-rudram",
+    "category": "Water Heaters",
+    "model": "RUDRAM",
+    "primaryImage": "./assets/RR Signature Products/Water Heaters/RUDRAM/catalogue-3_page_009.jpg",
+    "images": [
+      "./assets/RR Signature Products/Water Heaters/RUDRAM/catalogue-3_page_009.jpg"
+    ],
+    "description": "RUDRAM – PRODUCTS DIMENSIONS",
+    "specs": [
+      "Capacity",
+      "in Litres Dimensions (mm)",
+      "Magnesium Anode Rod",
+      "Dry Heating Protection",
+      "Thermal Cutout & Multi Safety",
+      "Valve Blue Diamond",
+      "Titanium Glass Line Tank",
+      "Whirflow Technology",
+      "On Tank",
+      "On Heating Element",
+      "On Product"
+    ]
+  },
+  {
+    "id": "water-heaters-vashisht",
+    "category": "Water Heaters",
+    "model": "VASHISHT",
+    "primaryImage": "./assets/RR Signature Products/Water Heaters/VASHISHT/catalogue-3_page_007.jpg",
+    "images": [
+      "./assets/RR Signature Products/Water Heaters/VASHISHT/catalogue-3_page_007.jpg"
+    ],
+    "description": "VASHISHT – On Tank",
+    "specs": [
+      "On Heating Element",
+      "On Product",
+      "Magnesium Anode Rod",
+      "Thermal Cutout & Multi Safety",
+      "Valve Blue Diamond",
+      "Titanium Glass Line Tank",
+      "PRODUCTS DIMENSIONS",
+      "Capacity",
+      "in Litres Dimensions (mm)",
+      "Storage Water Heater Dry Heating",
+      "Protection Incloy Heating",
+      "Element"
+    ]
+  }
+]

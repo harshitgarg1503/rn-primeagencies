@@ -1,0 +1,101 @@
+
+SOURCE: catalogue-2.pdf page 101
+MODEL: PC FRAME
+
+LED BATTEN
+PC FRAME
+6W I 10W I 20W I 22W I 24W
+32W | 45W
+102
+
+FOLLOWING SPECIFICATION PAGE 102
+ 
+ 
+Product 
+Input 
+Color 
+Shape 
+Size 
+PF 
+CRI 
+Lumen @  
+Name 
+Power 
+ 
+ 
+(mm) 
+ 
+ 
+6500K
+DuraGlo Lite 
+6W 
+CW/WW/NW 
+Square 
+300 
+>0.9 
+80 
+600lm
+DuraGlo Lite 
+10W 
+CW/WW/NW 
+Square 
+600 
+>0.9 
+80 
+1000lm
+DuraGlo 
+20W 
+CW/WW/NW 
+Square 
+600 
+>0.9 
+80 
+2000lm
+DuraGlo Lite 
+22W 
+CW/WW/NW 
+Square 
+1100 
+>0.9 
+80 
+2200lm
+SpectraGlo 
+24W 
+CW/WW/NW 
+Square 
+1100 
+>0.9 
+80 
+2400lm
+DuraGlo Plus 
+32W 
+CW/WW/NW 
+Square 
+1185 
+>0.9 
+80 
+3200lm
+DuraGlo Plus 
+45W 
+CW/WW/NW 
+Hexagon 
+1145 
+>0.9 
+80 
+4500lm
+Homes
+Showrooms
+Offices
+Unibody
+Mechanical
+Construction
+Robust
+Electronics
+For Long-life &
+Diffused Optics
+Sleek
+Square
+Shape
+Illumination
+103
+

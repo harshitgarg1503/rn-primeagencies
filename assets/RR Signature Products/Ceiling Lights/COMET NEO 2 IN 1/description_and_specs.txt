@@ -1,0 +1,80 @@
+
+SOURCE: catalogue-2.pdf page 57
+MODEL: COMET NEO 2 IN 1
+
+COMET
+NEO 2 IN 1
+7W I 12W
+58
+
+FOLLOWING SPECIFICATION PAGE 58
+INNER RING
+GLOW
+OUTER SING
+GLOW
+BOTH RINGS
+GLOW
+ON
+X1
+X1
+X1
+OFF
+-
+ON
+OFF
+-
+ON
+Homes
+Shops
+Cafes
+ 
+ 
+ 
+ 
+Wattage 
+Inner Circle 
+Outer Ring 
+Cut-out 
+PF 
+CRI 
+Lumen
+Variants 
+Color 
+Color 
+Dimension 
+ 
+ 
+Efficacy
+ 
+ 
+ 
+(mm) 
+ 
+ 
+7W 
+CW 
+WW/Pink/Blue/Green/PBG 
+50 
+>0.9 
+>80 
+100 Im/W
+12W 
+CW 
+WW/Pink/Blue/Green/PBG 
+50 
+>0.9 
+>80 
+100 Im/W
+Suitable For
+2.5-inch 
+Junction Box
+Ceiling Fitting
+Lifelong
+Brightness
+* CCT-6500K (CDL), 3000K (WW), Pink, Blue, Green (PBG)
+High Colour 
+Rendering
+Index (CRI>80) 
+for true colours
+59
+

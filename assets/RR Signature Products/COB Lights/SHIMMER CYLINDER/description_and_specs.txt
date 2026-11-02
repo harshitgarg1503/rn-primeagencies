@@ -1,0 +1,67 @@
+
+SOURCE: catalogue-2.pdf page 9
+MODEL: SHIMMER CYLINDER
+
+08
+COB LIGHT
+SHIMMER
+CYLINDER
+8W I 12W I 20W
+
+FOLLOWING SPECIFICATION PAGE 10
+09
+ 
+ 
+Wattage 
+Housing 
+Reflector 
+Dimension 
+CCT 
+CRI 
+*Lumen  
+Variants 
+ 
+ 
+( Dia xH)mm  
+ 
+Efficacy
+8W 
+Black/White 
+NB / RG 
+55 x 65 
+CW/WW/NW 
+>80 
+80 Im/W
+12W 
+Black/White 
+NB / RG 
+75 x 90 
+CW/WW/NW 
+>80 
+80 Im/W
+20W 
+Black/White 
+NB / RG 
+95 x 110 
+CW/WW/NW 
+>80 
+80 Im/W
+* CCT-6500K (CW), 4000K (NW), 3000K (WW)
+Reflector: Nickel Black (NB),  Rose Gold (RG)
+* Lumens @ 6500K, may vary as  per colour
+Homes
+Homes
+Showrooms
+Restaurants
+Galleries
+Hotel
+Intense
+Focused 
+Light
+High Colour 
+Rendering
+index (CRI>80) 
+for true colours
+Lifelong
+Brightness
+

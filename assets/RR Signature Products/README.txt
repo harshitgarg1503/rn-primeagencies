@@ -1,0 +1,1 @@
+Products organized by category and model. Image files are crops from original catalogue pages, not white-background cutouts. Some catalogue pages show multiple products or variations; check exact model-to-image matching before website publication. Specifications are preserved as source text and may require cleanup. Model variants are not guaranteed to be exhaustive.

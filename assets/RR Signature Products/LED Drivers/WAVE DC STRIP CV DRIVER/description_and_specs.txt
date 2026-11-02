@@ -1,0 +1,57 @@
+
+SOURCE: catalogue-2.pdf page 27
+MODEL: WAVE DC STRIP CV DRIVER
+
+LED WAVE DC
+STRIP CV
+DRIVER
+26
+24W I 60W I 96W
+
+FOLLOWING SPECIFICATION PAGE 28
+ 
+ 
+Wattage 
+Driver Type 
+Dimension 
+Output  
+Output 
+Body
+Variants 
+ 
+ 
+Voltage 
+Current
+24W 
+Constant Voltage 
+85 x 38 x 30   
+12V 
+2A 
+PC
+60W 
+Constant Voltage 
+150 x 43 x 30   
+12V 
+5A 
+PC
+96W 
+Constant Voltage 
+150 x 43 x 30   
+12V 
+8A 
+PC
+Constant
+Voltage
+Driver
+CV
+High Surge
+Protection
+(4KV)
+Homes
+Showrooms
+Restaurants
+Galleries
+Contour
+Lighting
+27
+

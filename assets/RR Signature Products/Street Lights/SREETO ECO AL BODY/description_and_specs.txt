@@ -1,0 +1,77 @@
+
+SOURCE: catalogue-2.pdf page 77
+MODEL: SREETO ECO AL BODY
+
+SREETO ECO
+STREET
+LIGHT(AL BODY)
+20W I 30W I 50W I 100W
+78
+
+FOLLOWING SPECIFICATION PAGE 78
+School & 
+College
+Villas
+Condominiums
+Cafes
+Pathways
+ 
+ 
+Wattage 
+Color 
+Dimension 
+PF 
+CRI 
+Lumen 
+Power Surge 
+IP  
+Variants 
+ 
+(LxW) mm 
+ 
+ 
+Efficacy 
+Protection
+20W 
+CW 
+255 x 102 
+>0.9 
+70 
+100 Im/W 
+4KV 
+IP66
+30W 
+CW 
+298 x 120 
+>0.9 
+70 
+100 Im/W 
+4KV 
+IP66
+50W 
+CW 
+346 x 142 
+>0.9 
+70 
+100 Im/W 
+4KV 
+IP66
+100W 
+CW 
+455 x 191 
+>0.9 
+70 
+100 Im/W 
+4KV 
+IP66
+Certified 
+Bright
+LEDs
+Non-Flickering
+Performance
+IP 66
+Outoor
+Lighting
+IP66
+79
+

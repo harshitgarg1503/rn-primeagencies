@@ -1,0 +1,51 @@
+
+SOURCE: catalogue-2.pdf page 73
+MODEL: SOLUX
+
+8W I 12W I 20W
+SOLUX
+SOLAR
+STREETLIGHT 
+74
+
+FOLLOWING SPECIFICATION PAGE 74
+ 
+ 
+Lumen 
+Color 
+Dimension 
+Weght(gm) 
+ 
+ 
+(LxW) mm 
+ 
+800  
+CW 
+317x170 
+950 
+1600 
+CW 
+415x205 
+1370
+3000 
+CW 
+510x230 
+1880
+4000 
+CW 
+640x250 
+2650
+Solar
+Light
+Weather
+Protection
+75
+School & 
+College
+Villas
+Pathways
+Sensor 
+Technology
+Dimmable
+Remote
+

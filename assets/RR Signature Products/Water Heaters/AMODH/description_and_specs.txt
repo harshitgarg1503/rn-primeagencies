@@ -1,0 +1,46 @@
+
+SOURCE: catalogue-3.pdf page 11
+MODEL: AMODH
+
+Storage Water Heater
+SIZES AVAILABLE
+10 15 25
+HL
+6
+On Heating Element
+2
+On Product
+10
+On Tank
+Magnesium 
+Anode Rod
+Dry Heating
+Protection
+Thermal Cutout
+& Multi Safety
+Valve 
+Blue Diamond 
+Titanium Glass
+Line Tank
+Whirflow
+Technology
+PRODUCTS DIMENSIONS
+Capacity
+in Litres
+Dimensions (mm)
+L
+W
+H
+10
+460
+270
+250
+15
+470
+320
+300
+25
+540
+360
+340
+10

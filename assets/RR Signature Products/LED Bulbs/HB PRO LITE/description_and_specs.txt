@@ -1,0 +1,135 @@
+
+SOURCE: catalogue-2.pdf page 113
+MODEL: HB PRO LITE
+
+LED HB
+PRO LITE
+LAMPS
+2.7W I 6W I 8W I 9W I 10W I 12W
+15W I 18W I 20W I 24W
+112
+
+FOLLOWING SPECIFICATION PAGE 114
+ 
+ 
+Input 
+Color 
+Base/Cap 
+Size 
+PF 
+CRI 
+Lumens
+Power 
+ 
+ 
+Dia x H (mm)
+2.7W 
+CW 
+B22d 
+50 x 86 
+>0.9 
+80 
+270
+2.7W 
+WW 
+B22d 
+50 x 86 
+>0.9 
+80 
+250
+2.7W 
+WW 
+E27 
+50 x 86 
+>0.9 
+80 
+250
+6W 
+CW 
+B22d 
+55 x 100 
+>0.9 
+80 
+540
+8W 
+CW 
+B22d 
+55 x 100 
+>0.9 
+80 
+720
+9W 
+WW 
+B22d 
+60 x 107 
+>0.9 
+80 
+828
+9W 
+WW 
+E27 
+60 x 107 
+>0.9 
+80 
+828
+10W 
+CW 
+B22d 
+60 x 107 
+>0.9 
+80 
+900
+10W 
+Pink, Green  
+B22d 
+60 x 107 
+>0.9 
+ 
+ 
+Blue, Red
+12W 
+CW 
+B22d 
+60 x 110 
+>0.9 
+80 
+1080
+15W 
+CW 
+B22d 
+65 x 125 
+>0.9 
+80 
+1350
+18W 
+CW 
+B22d 
+70 x 136 
+>0.9 
+80 
+1620
+20W 
+CW 
+B22d 
+80 x 150 
+>0.9 
+80 
+1800
+24W 
+CW 
+B22d 
+80 x 150 
+>0.9 
+80 
+2160
+ 
+Bigger
+Diffuser
+Brighter
+Lighting
+Work On 
+Wide Voltages
+Safe for
+eyes
+113
+

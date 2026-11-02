@@ -1,0 +1,42 @@
+
+SOURCE: catalogue-3.pdf page 13
+MODEL: Instant Water Heater
+
+3
+On Heating Element
+2
+On Product
+Instant Water Heater
+5
+On Tank
+SIZES AVAILABLE
+3
+5
+PRODUCTS DIMENSIONS
+Capacity
+in Litres
+Dimensions (mm)
+L
+W
+H
+3
+200
+185
+365
+5
+220
+210
+440
+Pressure
+Release Valve
+Dry Heating
+Protection
+Rust & Shock
+Proof Premium
+Plastic Body 
+Dual LED
+Indicator
+Heavy Copper
+Heating Element
+for Faster Heating
+12

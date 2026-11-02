@@ -1,0 +1,100 @@
+
+SOURCE: catalogue-2.pdf page 37
+MODEL: CELESTIA BACKLIT
+
+CELESTIA LED
+DOWNLIGHTER
+(Backlit Technology)
+38
+6W I 10W I 12W I 15W I 20W
+
+FOLLOWING SPECIFICATION PAGE 38
+Homes
+Small offices
+Showrooms
+39
+ 
+ 
+Wattage 
+Color 
+Cut-out 
+PF 
+CRI 
+*Lumen  
+Variants 
+ 
+Dimension(mm) 
+ 
+ 
+Efficacy
+6W Round 
+CW/WW/NW/Pink/Blue/Green 
+96 
+>0.9 
+80 
+85 Im/W
+6W Square 
+CW/WW/NW/Pink/Blue/Green 
+96x96 
+>0.9 
+80 
+85 Im/W
+10W Round 
+CW,WW,NW 
+96 
+>0.9 
+80 
+90 Im/W
+10W Square 
+CW,WW,NW 
+96x96 
+>0.9 
+80 
+90 Im/W
+12W Round 
+CW,WW,NW 
+130 
+>0.9 
+80 
+100 Im/W
+12W Square 
+CW,WW,NW 
+130x130 
+>0.9 
+80 
+100 Im/W
+15W Round 
+CW,WW,NW 
+145 
+>0.9 
+80 
+100 Im/W
+15W Square 
+CW,WW,NW 
+145x145 
+>0.9 
+80 
+100 Im/W
+20W Round 
+CW,WW,NW 
+201 
+>0.9 
+80 
+100 Im/W
+20W Square 
+CW,WW,NW 
+201x201 
+>0.9 
+80 
+100 Im/W
+ 
+* CCT-6500K (CDL), 4000K (NW), 3000K (WW)
+* Lumens @ 6500K, may vary as  per colour
+6500K High Functional
+Light Efficacy
+(upto 100 Lumens 
+per watt)
+High Colour Rendering
+index (CRI>80) 
+for true colours
+

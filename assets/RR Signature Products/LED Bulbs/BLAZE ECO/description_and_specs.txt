@@ -1,0 +1,106 @@
+
+SOURCE: catalogue-2.pdf page 111
+MODEL: BLAZE ECO
+
+LED BLAZE
+ECO
+LAMPS
+12W I 15W I 18W I 30W
+110
+40W I 50W | 70W
+
+FOLLOWING SPECIFICATION PAGE 112
+ 
+ 
+Input 
+Color 
+Base/Cap 
+Size 
+PF 
+CRI 
+Lumen
+Power 
+ 
+ 
+Dia x H (mm) 
+ 
+Efficacy
+12W 
+CW 
+B22d 
+60 x 116 
+>0.9 
+80 
+105lm/W
+15W 
+CW 
+B22d 
+70 x 127 
+>0.9 
+80 
+105lm/W
+18W 
+CW 
+B22d 
+80 x 136 
+>0.9 
+80 
+105lm/W
+30W 
+CW 
+B22d 
+100 x 152 
+>0.9 
+80 
+105lm/W
+40W 
+CW 
+B22d 
+120 x 167 
+>0.9 
+80 
+100lm/W
+40W 
+WW 
+B22d 
+120 x 167 
+>0.9 
+80 
+90lm/W
+50W 
+CW 
+B22d 
+140 x 190 
+>0.9 
+80 
+100lm/W
+50W 
+WW 
+B22d 
+140 x 190 
+>0.9 
+80 
+90lm/W
+70W 
+CW 
+B22d 
+160 x 260 
+>0.9 
+80 
+100lm/W
+ 
+Bigger
+Diffuser
+Brighter
+Lighting
+111
+High Functional
+Light Efficacy
+(upto 100 
+Lumens per watt)
+Shops
+Showrooms
+Institutions
+Common Areas
+Homes
+

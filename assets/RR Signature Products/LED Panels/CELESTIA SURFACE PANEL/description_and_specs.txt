@@ -1,0 +1,76 @@
+
+SOURCE: catalogue-2.pdf page 49
+MODEL: CELESTIA SURFACE PANEL
+
+50
+CELESTIA 
+LED SURFACE 
+PANEL
+8W I 15W I 22W
+
+FOLLOWING SPECIFICATION PAGE 50
+High Colour 
+Rendering
+Index (CRI>80) 
+for true colours
+Safe For 
+Eyes
+Slim
+Compact
+Beauty
+51
+ 
+Homes
+Shops
+Wattage 
+Color 
+Dimension 
+PF 
+CRI 
+*Lumen  
+Variants 
+ 
+ 
+ 
+ 
+Efficacy
+8W Round 
+CW/NW/WW/Pink/Blue/Green 
+90x25 
+>0.9 
+80 
+80 Im/W
+8W Square 
+CW/NW/WW/Pink/Blue/Green 
+90x90X25 
+>0.9 
+80 
+80 Im/W
+15W Round 
+CW/NW/WW 
+120X25 
+>0.9 
+80 
+80 Im/W
+15W Square 
+CW/NW/WW 
+120X120X25 
+>0.9 
+80 
+80 Im/W
+22W Round 
+CW/NW/WW 
+155X25 
+>0.9 
+80 
+80 Im/W
+22W Square 
+CW/NW/WW 
+155X155X25 
+>0.9 
+80 
+80 Im/W
+* CCT-6500K (CDL), 4000K (NW), 3000K (WW)
+* Lumens @ 6500K, may vary as  per colour
+Cafes
+

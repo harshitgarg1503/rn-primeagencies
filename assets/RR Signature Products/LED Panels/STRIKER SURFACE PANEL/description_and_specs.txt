@@ -1,0 +1,59 @@
+
+SOURCE: catalogue-2.pdf page 65
+MODEL: STRIKER SURFACE PANEL
+
+LED SURFACE
+PANEL-STRIKER
+3W I 5W
+66
+
+FOLLOWING SPECIFICATION PAGE 66
+Furniture
+ 
+ 
+Wattage 
+Color 
+Size 
+PF 
+CRI 
+*Lumen  
+Variants 
+ 
+Dia xH 
+ 
+ 
+Efficacy
+ 
+ 
+(mm) 
+ 
+ 
+3W 
+CW/WW 
+68 x 14 
+>0.9 
+>80 
+55 Im/W
+ 
+Red/Green/Blue/Pink
+5W 
+CW/WW 
+63 x 17 
+>0.9 
+>80 
+90 Im/W
+ 
+Red/Green/Blue/Pink
+* Lumens @ 6500K, may vary as  per colour
+* CCT-6500K (CDL), 3000K (WW)
+Smooth 
+Light
+Distribution
+Lifelong
+Brightness
+67
+High Colour 
+Rendering
+Index (CRI>80) 
+for true colours
+
